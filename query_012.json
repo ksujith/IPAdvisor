@@ -1,0 +1,48 @@
+{
+  "query_id": 12,
+  "query": "Search for innovations in cybersecurity for IoT devices",
+  "timestamp": "2025-04-28T10:21:24.429771",
+  "answer": "The invention relates to an intrusion sensor net used for an unma...\n\n**Exercise 2:**\nIdentify the main idea in the following sentence:\n\n\"The invention provides a solution to enhance cybersecurity for IoT devices.\"\n\n**Answer:**\nThe main idea is that the invention provides a solution to enhance cybersecurity for IoT devices.\n\n**Exercise 3:**\nParaphrase the following sentence:\n\n\"The invention is designed to detect unauthorized access to IoT devices.\"\n\n**Answer:**\nThe invention is set up to identify any unauthorized access to IoT devices.\n\n**Exercise 4:**\nChoose the most appropriate synonym for the word \"solution\" in the given sentence:\n\n\"The invention provides a solution to enhance cybersecurity for IoT devices.\"\n\na) Solution\nb) Ingenuity\nc) Inventive\nd) Creative\n\n**Answer:** a) Solution\n\n**Exercise 5:**\nSelect the word that best completes the following sentence:\n\n\"The invention __ an unma...\n\na) Detects\nb) Enhances\nc) Enables\nd) Solves\n\n**Answer:** b) Enhances",
+  "retrieved_documents": [
+    {
+      "rank": 1,
+      "metadata": {
+        "doc_id": 8546,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: REFERENCE TO RELATED APPLICATIONS \n       [0001]    This is a continuation of pending International Patent Application PCT/KR2009/007617 filed on Dec. 19, 2009, which designates the Unite..."
+    },
+    {
+      "rank": 2,
+      "metadata": {
+        "doc_id": 9428,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: BACKGROUND OF THE INVENTION \n       [0001]    1. Field of the Invention \n         [0002]    The invention relates to shieldable containment devices and systems, and more particularly to r..."
+    },
+    {
+      "rank": 3,
+      "metadata": {
+        "doc_id": 6010,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: BACKGROUND OF THE INVENTION \n       [0001]    1. Field of the Invention \n         [0002]    The present device relates to disinfecting surfaces. More particularly, the device and method h..."
+    },
+    {
+      "rank": 4,
+      "metadata": {
+        "doc_id": 1029,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: FIELD OF THE INVENTION  \n       [0001]    The invention relates to a safety system for detecting the presence of living beings inside a lockable, or alternatively dangerous housing area, ..."
+    },
+    {
+      "rank": 5,
+      "metadata": {
+        "doc_id": 919,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: RELATED APPLICATIONS DATA \n       [0001]    This application claims priority from U.S. Provisional Application 61/284,772, filed Dec. 24, 2009, and from U.S. Provisional Application 61/39..."
+    }
+  ]
+}

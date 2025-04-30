@@ -1,0 +1,48 @@
+{
+  "query_id": 52,
+  "query": "What are the latest developments in edge computing?",
+  "timestamp": "2025-04-28T10:45:40.723606",
+  "answer": "The present invention relates to a communication technique used in a wireless communication system, and specifically, to a receiver for processing a received signal from a base station. The patent explains that a communication system is formed at a minimum of a base station and a mobile station, connected by a communication channel. Information to be communicated by the base station is received by the base station via the communication channel, and the mobile station is connected to the base station via the same channel. This connection allows the base station and the mobile station to communicate with each other wirelessly.\n\n**Exercise:**\n1. What are the two main components of a wireless communication system?\n2. How do base stations and mobile stations communicate with each other in a wireless communication system?\n3. What is the purpose of a receiver in a wireless communication system?\n4. Explain the role of a communication channel in a wireless communication system.\n\n**Answers:**\n1. The two main components of a wireless communication system are a base station and a mobile station.\n2. Base stations and mobile stations communicate with each other in a wireless communication system by establishing a connection through a communication channel.\n3. The purpose of a receiver in a wireless communication system is to receive and process",
+  "retrieved_documents": [
+    {
+      "rank": 1,
+      "metadata": {
+        "doc_id": 6118,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: FIELD OF THE INVENTION  \n         [0001]    The present invention relates to a communication technique used in a wireless communication system and, more particularly, to a receiver for pr..."
+    },
+    {
+      "rank": 2,
+      "metadata": {
+        "doc_id": 3095,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: BACKGROUND OF THE INVENTION \n     The technical area of the invention is the area of spinning mill machines such as draw frames, carding machines, and so forth, and therein a process to c..."
+    },
+    {
+      "rank": 3,
+      "metadata": {
+        "doc_id": 8546,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: REFERENCE TO RELATED APPLICATIONS \n       [0001]    This is a continuation of pending International Patent Application PCT/KR2009/007617 filed on Dec. 19, 2009, which designates the Unite..."
+    },
+    {
+      "rank": 4,
+      "metadata": {
+        "doc_id": 7033,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: BACKGROUND OF THE INVENTION \n     There is disclosed in U.S. Pat. No. 3,752,097 issued Aug. 14, 1973, in the names of George A. Fuller, Jr. et al improved mechanism for performing automat..."
+    },
+    {
+      "rank": 5,
+      "metadata": {
+        "doc_id": 2372,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: CROSS REFERENCE TO RELATED APPLICATION \n       [0001]    This patent application claims the benefit of provisional patent application Ser. No. 60/777,664; filed Feb. 28, 2006. \n     \n    ..."
+    }
+  ]
+}

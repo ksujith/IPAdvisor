@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Patent Assistant</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        .section {
+            margin-bottom: 2rem;
+            padding: 1.5rem;
+            border-radius: 0.5rem;
+            background-color: #f8f9fa;
+        }
+        .result-card {
+            margin-bottom: 1rem;
+            transition: transform 0.2s;
+        }
+        .result-card:hover {
+            transform: translateY(-5px);
+        }
+        .similarity-score {
+            font-weight: bold;
+            color: #0d6efd;
+        }
+        .nav-tabs {
+            margin-bottom: 1.5rem;
+        }
+    </style>
+</head>
+<body>
+    <div class="container mt-4">
+        <h1 class="text-center mb-4">Patent Assistant</h1>
+        
+        <ul class="nav nav-tabs" id="myTab" role="tablist">
+            <li class="nav-item" role="presentation">
+                <button class="nav-link active" id="prior-art-tab" data-bs-toggle="tab" data-bs-target="#prior-art" type="button" role="tab">Prior Art Search</button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="analysis-tab" data-bs-toggle="tab" data-bs-target="#analysis" type="button" role="tab">Patent Analysis</button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="similarity-tab" data-bs-toggle="tab" data-bs-target="#similarity" type="button" role="tab">Similarity Detection</button>
+            </li>
+        </ul>
+
+        <div class="tab-content" id="myTabContent">
+            <!-- Prior Art Search Tab -->
+            <div class="tab-pane fade show active" id="prior-art" role="tabpanel">
+                <div class="section">
+                    <h3>Prior Art Search</h3>
+                    <form id="priorArtForm">
+                        <div class="mb-3">
+                            <label for="searchQuery" class="form-label">Search Query</label>
+                            <input type="text" class="form-control" id="searchQuery" required>
+                        </div>
+                        <button type="submit" class="btn btn-primary">Search</button>
+                    </form>
+                    <div id="priorArtResults" class="mt-4"></div>
+                </div>
+            </div>
+
+            <!-- Patent Analysis Tab -->
+            <div class="tab-pane fade" id="analysis" role="tabpanel">
+                <div class="section">
+                    <h3>Patent Analysis</h3>
+                    <form id="analysisForm">
+                        <div class="mb-3">
+                            <label for="patentText" class="form-label">Patent Text</label>
+                            <textarea class="form-control" id="patentText" rows="10" required></textarea>
+                        </div>
+                        <button type="submit" class="btn btn-primary">Analyze</button>
+                    </form>
+                    <div id="analysisResults" class="mt-4"></div>
+                </div>
+            </div>
+
+            <!-- Similarity Detection Tab -->
+            <div class="tab-pane fade" id="similarity" role="tabpanel">
+                <div class="section">
+                    <h3>Similarity Detection</h3>
+                    <form id="similarityForm">
+                        <div class="mb-3">
+                            <label for="newPatentText" class="form-label">New Patent Text</label>
+                            <textarea class="form-control" id="newPatentText" rows="10" required></textarea>
+                        </div>
+                        <div class="mb-3">
+                            <label for="similarityThreshold" class="form-label">Similarity Threshold</label>
+                            <input type="range" class="form-range" id="similarityThreshold" min="0" max="100" value="70">
+                            <div class="text-center" id="thresholdValue">0.70</div>
+                        </div>
+                        <button type="submit" class="btn btn-primary">Find Similar Patents</button>
+                    </form>
+                    <div id="similarityResults" class="mt-4"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        // Update threshold value display
+        document.getElementById('similarityThreshold').addEventListener('input', function(e) {
+            document.getElementById('thresholdValue').textContent = (e.target.value / 100).toFixed(2);
+        });
+
+        // Handle form submissions
+        document.getElementById('priorArtForm').addEventListener('submit', async function(e) {
+            e.preventDefault();
+            const query = document.getElementById('searchQuery').value;
+            const response = await fetch('/search_prior_art', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({ query })
+            });
+            const results = await response.json();
+            displayPriorArtResults(results);
+        });
+
+        document.getElementById('analysisForm').addEventListener('submit', async function(e) {
+            e.preventDefault();
+            const patentText = document.getElementById('patentText').value;
+            const response = await fetch('/analyze_patent', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({ patent_text: patentText })
+            });
+            const result = await response.json();
+            displayAnalysisResults(result);
+        });
+
+        document.getElementById('similarityForm').addEventListener('submit', async function(e) {
+            e.preventDefault();
+            const patentText = document.getElementById('newPatentText').value;
+            const threshold = document.getElementById('similarityThreshold').value / 100;
+            const response = await fetch('/check_similarity', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({ 
+                    patent_text: patentText,
+                    threshold: threshold
+                })
+            });
+            const results = await response.json();
+            displaySimilarityResults(results);
+        });
+
+        function displayPriorArtResults(results) {
+            const container = document.getElementById('priorArtResults');
+            container.innerHTML = results.map(result => `
+                <div class="card result-card">
+                    <div class="card-body">
+                        <h5 class="card-title">${result.title}</h5>
+                        <h6 class="card-subtitle mb-2 text-muted">${result.publication_number}</h6>
+                        <p class="card-text">${result.abstract}</p>
+                        <p class="card-text">
+                            <small class="text-muted">
+                                Inventor: ${result.inventor} | Assignee: ${result.assignee} | 
+                                Date: ${result.publication_date}
+                            </small>
+                        </p>
+                        <div class="similarity-score">
+                            Relevance Score: ${result.relevance_score.toFixed(2)}
+                        </div>
+                    </div>
+                </div>
+            `).join('');
+        }
+
+        function displayAnalysisResults(result) {
+            const container = document.getElementById('analysisResults');
+            container.innerHTML = `
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">Patent Analysis Results</h5>
+                        <div class="analysis-content">
+                            ${result.analysis.replace(/\n/g, '<br>')}
+                        </div>
+                    </div>
+                </div>
+            `;
+        }
+
+        function displaySimilarityResults(results) {
+            const container = document.getElementById('similarityResults');
+            container.innerHTML = results.map(result => `
+                <div class="card result-card">
+                    <div class="card-body">
+                        <h5 class="card-title">${result.title}</h5>
+                        <h6 class="card-subtitle mb-2 text-muted">${result.publication_number}</h6>
+                        <p class="card-text">${result.abstract}</p>
+                        <div class="similarity-score">
+                            Similarity Score: ${result.similarity_score.toFixed(2)}
+                        </div>
+                    </div>
+                </div>
+            `).join('');
+        }
+    </script>
+</body>
+</html> 

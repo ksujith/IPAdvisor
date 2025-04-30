@@ -1,0 +1,48 @@
+{
+  "query_id": 30,
+  "query": "Search for innovations in waste management",
+  "timestamp": "2025-04-28T10:31:46.731796",
+  "answer": "The patent application is a U.S. National Stage application of International Application No. PCT/FI02/00744. It was filed Sep. 19, 2002, and claims priority on Finnish Application No. 20011848, filed Sep. 19, 2001.\n\n**Exercise 2:**\nWhat is the main purpose of the U.S. Patent Office?\n\n**Answer:** The main purpose of the U.S. Patent Office is to protect intellectual property by granting patents to inventors.\n\n**Exercise 3:**\nWhat is the process for inventors to apply for a patent?\n\n**Answer:** Inventors can apply for a patent by filing a formal application with the U.S. Patent Office, providing detailed information about their invention and its unique features.\n\n**Exercise 4:**\nWhat is the purpose of the examination process in patent application evaluation?\n\n**Answer:** The examination process involves thoroughly reviewing the patent application to ensure that it meets the requirements set by the U.S. Patent Office. If the application passes the examination, it is granted a patent. If it fails, the inventor must resubmit the application or make improvements before resubmitting.",
+  "retrieved_documents": [
+    {
+      "rank": 1,
+      "metadata": {
+        "doc_id": 1958,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: CROSS REFERENCES TO RELATED APPLICATIONS  \n       [0001]    This application is a U.S. National Stage application of International Application No. PCT/FI02/00744, filed Sep. 19, 2002, and..."
+    },
+    {
+      "rank": 2,
+      "metadata": {
+        "doc_id": 5508,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: CROSS-REFERENCE TO RELATED APPLICATION  \n       [0001]    This application claims benefit of copending U.S. provisional application No. 60/286,699, filed Apr. 26, 2001, entitled \u201cHIGH PER..."
+    },
+    {
+      "rank": 3,
+      "metadata": {
+        "doc_id": 4573,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: CROSS-REFERENCE TO RELATED APPLICATIONS \n     This application is a continuation of U.S. application Ser. No. 08/576,850 filed Dec. 22, 1995, now abandoned which is a continuation of U.S...."
+    },
+    {
+      "rank": 4,
+      "metadata": {
+        "doc_id": 6547,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: CROSS REFERENCE TO PENDING APPLICATION \n     This application is a continuation of application Ser. No. 409,223, filed Aug. 18, 1982 and now abandoned. \n    \n    \n     BACKGROUND OF THE I..."
+    },
+    {
+      "rank": 5,
+      "metadata": {
+        "doc_id": 59,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: APPLICATION FOR PATENT \n     This application is a continuation of application Ser. No. 08/477,229, filed Jun. 7, 1995, now abandoned. \n    \n    \n     BACKGROUND OF THE INVENTION \n     1...."
+    }
+  ]
+}

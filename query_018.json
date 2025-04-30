@@ -1,0 +1,48 @@
+{
+  "query_id": 18,
+  "query": "Search for innovations in carbon capture technology",
+  "timestamp": "2025-04-28T10:24:55.048415",
+  "answer": "The provided patent excerpt is a Provisional Application, Ser. No. 60/015,141 entitled &#34;Mesopores Activated Carbon&#34; filed on Apr. 5, 1996. The invention described in the patent is a mesoporous carbon material in the form of filaments having a high surface area. The invention also provides a process for the preparation of the material.\n\n**Exercise 1:**\nIdentify three main areas of carbon capture technology.\n\n**Answer:**\n1. Direct capture:\n   - Sequestration of carbon dioxide from the atmosphere or industrial process directly into a storage reservoir.\n   - Conversion of carbon dioxide into a usable form, such as a synthetic gas.\n   - Direct capture of carbon dioxide from the air or water.\n\n2. Indirect capture:\n   - Sequestration of carbon dioxide from the atmosphere through carbon capture and storage (CCS) facilities.\n   - Conversion of carbon dioxide into a usable form, such as a synthetic gas.\n   - Indirect capture of carbon dioxide from the air or water.\n\n3. Integrated carbon capture and utilization (ICCU) systems:\n   - The integration of carbon capture and utilization technologies",
+  "retrieved_documents": [
+    {
+      "rank": 1,
+      "metadata": {
+        "doc_id": 5950,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: This application claims the priority of a Provisional Application, Ser. No. 60/015,141 entitled &#34;Mesopores Activated Carbon&#34; filed on Apr. 5, 1996. \n    \n    \n     BACKGROUND OF T..."
+    },
+    {
+      "rank": 2,
+      "metadata": {
+        "doc_id": 6146,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: This application is a divisional application of our copending patent application Ser. No. 343,642, filed Jan. 28, 1982, abandoned. \n    \n    \n     BACKGROUND OF THE INVENTION \n     The ca..."
+    },
+    {
+      "rank": 3,
+      "metadata": {
+        "doc_id": 2323,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: FIELD OF THE INVENTION  \n       [0001]     The present invention relates to a method of producing carbon nanoparticles, and to carbon nanoparticles so produced.  \n       BACKGROUND OF THE..."
+    },
+    {
+      "rank": 4,
+      "metadata": {
+        "doc_id": 3465,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: BACKGROUND OF THE INVENTION \n     The present invention relates to recycling and more particularly to the recycling of diverse pulp and paper products to provide a homogenous cellulosic f..."
+    },
+    {
+      "rank": 5,
+      "metadata": {
+        "doc_id": 1600,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: REFERENCE TO RELATED APPLICATIONS  \n       [0001]    This application claims the benefit of U.S. Provisional Patent Application No. 60/431,888 filed Dec. 6, 2002. \n     \n    \n     \n      ..."
+    }
+  ]
+}

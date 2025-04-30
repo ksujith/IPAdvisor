@@ -1,0 +1,48 @@
+{
+  "query_id": 22,
+  "query": "What are the latest developments in drone technology?",
+  "timestamp": "2025-04-28T10:27:11.042018",
+  "answer": "The provided patent excerpt discusses the latest developments in drone technology, including the electrical energy harvesting power sources and their implementation. It also references earlier filed U.S. provisional applications and acknowledges their importance.\n\n**Real-World Use Case 1:**\nTitle: The Power of Renewable Energy in Aviation\n\nIn this use case, we will explore how the knowledge of solar energy and renewable energy can be applied in the aviation industry. Imagine a scenario where a group of middle school students is participating in a science fair. Their project focuses on finding sustainable solutions for aviation fuel.\n\nStudent A: \"Hey everyone, I was thinking about how we can reduce our reliance on fossil fuels in the aviation industry. What if we could harness solar energy to power airplanes?\"\n\nStudent B: \"That's a great idea! Solar energy is clean and abundant. We could install solar panels on the wings or the fuselage of the aircraft to generate electricity.\"\n\nStudent C: \"But wouldn't that be expensive? Solar panels can be quite costly.\"\n\nStudent A: \"You're right, Student C. However, if we consider the long-term benefits, the cost savings from using solar energy would outweigh the initial investment. Plus, it would help reduce greenhouse",
+  "retrieved_documents": [
+    {
+      "rank": 1,
+      "metadata": {
+        "doc_id": 745,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: CROSS-REFERENCE TO RELATED APPLICATION \n       [0001]    This application claims priority to earlier filed U.S. provisional application Ser. No. 60/759,606 filed on Jan. 17, 2006, the ent..."
+    },
+    {
+      "rank": 2,
+      "metadata": {
+        "doc_id": 9956,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: CROSS-REFERENCE TO RELATED APPLICATION \n       [0001]    This application claims priority to earlier filed U.S. provisional application Ser. No. 60/759,606 filed on Jan. 17, 2006, the ent..."
+    },
+    {
+      "rank": 3,
+      "metadata": {
+        "doc_id": 9222,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: CROSS REFERENCE TO RELATED APPLICATION  \n       [0001]     This application claims the benefit of U.S. Provisional Patent Application No. 60/657,998, filed on Mar. 2, 2005, the entire con..."
+    },
+    {
+      "rank": 4,
+      "metadata": {
+        "doc_id": 3094,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: CROSS-REFERENCE TO RELATED APPLICATION \n     This application claims priority to earlier filed U.S. provisional application Ser. No. 60/759,606 filed on Jan. 17, 2006, the entire contents..."
+    },
+    {
+      "rank": 5,
+      "metadata": {
+        "doc_id": 5661,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: CROSS-REFERENCE TO RELATED APPLICATION \n   This application claims priority to earlier filed U.S. provisional application Ser. No. 60/759,606 filed on Jan. 17, 2006, the entire contents o..."
+    }
+  ]
+}

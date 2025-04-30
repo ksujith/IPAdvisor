@@ -1,16 +1,84 @@
-# IPAdvisor
-Developing an Intellectual Property AI Assistant
-#Background
+# IPAdvisor: Intelligent Patent Analysis System
 
-The Intellectual Property (IP) landscape involves complex legal frameworks and extensive documentation, requiring careful analysis of legal statutes and regulations. Professionals face challenges with the volume of data, such as prior art and patent filings, making the management of IP time-consuming. Detecting potential infringements calls for meticulous comparisons, which can be resource-intensive. AI has positively transformed patent management by streamlining tasks like patent searches and improving classification systems.  NLP tools help identify similarities in patent claims, aiding infringement detection.
+IPAdvisor is a Retrieval-Augmented Generation (RAG) based system for intelligent patent analysis. It provides capabilities for prior art searches, patent content extraction, summarization, and similarity identification.
 
-An AI-powered patent assistant can significantly improve patent workflows by automating processes, reducing manual effort, and enhancing decision-making. It analyzes complex documents, conducts quick prior art searches, and assists with application drafting to ensure compliance with patent office standards. Additionally, it monitors filings to identify potential infringements. However, the accuracy of these tools is a critical concern, emphasizing the need for careful evaluation before implementation.
+## Features
 
-#Objectives
-Develop a Patent Assistant Application that can assist the patent management. The tool is able to:
+- **Prior Art Search**: Identify relevant prior art for patent applications
+- **Content Extraction**: Extract and summarize key information from patents
+- **Similarity Analysis**: Find similar patents based on technical content
+- **Configurable Pipeline**: Easily adjustable parameters for retrieval and generation
+- **Comprehensive Logging**: Detailed logging for analysis and debugging
 
-Conduct prior art searches and is able to retrieve relevant patent documents based on user input queries
-Extract and summarize key sections (e.g., claims, abstract, drawings) from patent documents.
-Identify similarities between existing patents and new applications.
-Dataset:
-Using an existing dataset: BigPatent: https://huggingface.co/datasets/NortheasternUniversity/big_patent
+## Installation
+
+1. Clone the repository:
+```bash
+git clone <repository-url>
+cd IPDOC
+```
+
+2. Install dependencies:
+```bash
+pip install -r requirements.txt
+```
+
+3. Set up environment variables in `.env`:
+```
+HUGGINGFACE_TOKEN=your_token_here
+```
+
+## Usage
+
+1. Initialize the IPAdvisor system:
+```python
+from IPadvisor import IPAdvisor
+advisor = IPAdvisor()
+```
+
+2. Process queries:
+```python
+results = advisor.process_query("Describe innovative solar panel technologies")
+```
+
+## Configuration
+
+Key configuration parameters in `IPadvisor.py`:
+- `max_docs_to_index`: Maximum number of documents to index
+- `batch_size`: Batch size for processing
+- `embedding_model`: Model for document embedding
+- `llm_model`: Language model for generation
+- `max_context_length`: Maximum context length for generation
+- `top_k`: Number of documents to retrieve
+
+## Directory Structure
+
+- `/assets`: Model cache and data files
+- `/evaluation`: Query results and evaluation metrics
+- `/logs`: System logs
+
+## Evaluation
+
+The system supports evaluation of:
+1. Prior art search accuracy
+2. Information extraction quality
+3. Similarity matching precision
+
+Results are stored in JSON format in the evaluation directory.
+
+## Logging
+
+Comprehensive logging is implemented with different levels:
+- INFO: General operation information
+- DEBUG: Detailed debugging information
+- ERROR: Error messages and stack traces
+
+Logs are stored in the `/logs` directory.
+
+## Contributing
+
+Please read CONTRIBUTING.md for details on our code of conduct and the process for submitting pull requests.
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details. 

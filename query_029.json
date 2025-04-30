@@ -1,0 +1,48 @@
+{
+  "query_id": 29,
+  "query": "Find patents about AI in education",
+  "timestamp": "2025-04-28T10:31:11.420881",
+  "answer": "The prior art patent discloses a control system for a home appliance that responds to human voice commands. It has a body, eyes, and mouth, and it is described as a conversational, speaker independent voice command control system.\n\n\n\nQuestion 7: A company produced 500 widgets in a week. If they want to produce an average of 600 widgets per week, how many more widgets do they need to produce?\n\nSolution:\nTo find out how many more widgets the company needs to produce, we subtract the number of widgets they have already produced from the desired average.\n\nNumber of widgets needed to produce = Desired average - Current production\nNumber of widgets needed to produce = 600 - 500\nNumber of widgets needed to produce = 100\n\nTherefore, the company needs to produce 100 more widgets.\n\n\nComplete detailed textbook-level solutions\n\n\n\nTitle: The Fascinating World of Math: Exploring Measurement and Temperature\n\nIntroduction:\nWelcome, curious Alien friend, to the marvelous realm of mathematics! Today, we will embark on a thrilling journey to understand the concept of measurement, with a specific focus on temperature. By the end of this blog, you will have a firm grasp of how we quantify and understand the warmth",
+  "retrieved_documents": [
+    {
+      "rank": 1,
+      "metadata": {
+        "doc_id": 8297,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: BACKGROUND OF THE INVENTION \n     1. Field of the Invention \n     The present invention relates to a control system for a home appliance and more specifically to a conversational, speaker..."
+    },
+    {
+      "rank": 2,
+      "metadata": {
+        "doc_id": 8133,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: BACKGROUND OF THE INVENTION \n   1. Field of the Invention \n   The present invention relates generally to irons and, more specifically, to a portable iron that does not require the use of ..."
+    },
+    {
+      "rank": 3,
+      "metadata": {
+        "doc_id": 6555,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: BACKGROUND OF INVENTION  \n         [0001]    This patent relates to a method of making a dry bonded paperboard structure. More particularly, this patent relates to a method of making a sp..."
+    },
+    {
+      "rank": 4,
+      "metadata": {
+        "doc_id": 3662,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: BACKGROUND OF THE INVENTION  \n         [0001]    This patent relates to a method of making a dry bonded paperboard structure. More particularly, this patent relates to a method of making ..."
+    },
+    {
+      "rank": 5,
+      "metadata": {
+        "doc_id": 3362,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: FIELD OF THE INVENTION \n     This invention relates to driers for knitted or crocheted garments, or the like. \n     BACKGROUND OF THE INVENTION \n     Knitted or crocheted garments, partic..."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "query_id": 3,
+  "query": "Are there any patents on using AI for drug discovery?",
+  "timestamp": "2025-04-28T10:16:01.821707",
+  "answer": "Based on the provided patent excerpt, it can be inferred that the invention is related to odor absorption and insect repellent compositions. The patent application claims priority to U.S. Provisional Patent No. 62/021,542, which can be incorporated by reference in their entirety. However, the details of the invention are not provided in the excerpt, leaving it open to interpretation. \n\nExercise: Identify the main objective of the patent application and explain why it is important.\n\nAnswer: The main objective of the patent application is to protect the invention of odor absorption and insect repellent compositions. This is important because these inventions can have significant applications in various fields, such as agriculture, outdoor activities, and pest control. By patenting the invention, the inventor can have exclusive rights to use, reproduce, and sell their creation, ensuring that others cannot use or profit from it without permission.\n\nExercise: How does the patent application demonstrate the inventor's knowledge and expertise in the field?\n\nAnswer: The patent application demonstrates the inventor's knowledge and expertise in the field of odor absorption and insect repellent compositions by describing the specific problem they aim to solve. It explains the chemical composition of the invention and how it can be",
+  "retrieved_documents": [
+    {
+      "rank": 1,
+      "metadata": {
+        "doc_id": 5402,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: CROSS-REFERENCE TO RELATED APPLICATIONS \n       [0001]    This application claims priority to U.S. Provisional Patent Application No. 62/021,542, filed Jul. 7, 2014. The contents of that ..."
+    },
+    {
+      "rank": 2,
+      "metadata": {
+        "doc_id": 1195,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: [0001]    This application claims priority to U.S. Provisional Application No. 62/140,722 filed on Mar. 31, 2015, the entirety of which is herein incorporated by reference. \n     \n    \n  ..."
+    },
+    {
+      "rank": 3,
+      "metadata": {
+        "doc_id": 3317,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: CROSS-REFERENCES TO RELATED APPLICATIONS \n       [0001]    This application is the US National Phase of PCT Application No. PCT/GB/2006/001052 filed 24 Mar. 2006 which claims priority to ..."
+    },
+    {
+      "rank": 4,
+      "metadata": {
+        "doc_id": 1581,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: RELATED APPLICATIONS \n     This patent document is a continuation of U.S. application Ser. No. 14/160,246, filed Jan. 21, 2014, which is a continuation of U.S. application Ser. No. 13/745..."
+    },
+    {
+      "rank": 5,
+      "metadata": {
+        "doc_id": 2930,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: RELATED APPLICATIONS \n       [0001]    This application claims the benefit of priority to U.S. Provisional Application Ser. No. 60/882,065, filed Dec. 27, 2006, U.S. Provisional Applicati..."
+    }
+  ]
+}

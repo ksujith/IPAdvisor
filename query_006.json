@@ -1,0 +1,48 @@
+{
+  "query_id": 6,
+  "query": "Search for innovations in water purification systems",
+  "timestamp": "2025-04-28T10:17:50.604168",
+  "answer": "The given patent excerpt describes a filtration and recovery system for a solvent-based liquid.\n\n**Exercise 1:**\nRead the following passage and answer the questions that follow.\n\n**Passage:**\nIn the field of science, the internet has revolutionized the way information is accessed and shared. It has become an essential tool for researchers, students, and individuals interested in various scientific topics. The internet provides a vast amount of resources, including online databases, research papers, and educational websites. Additionally, it allows for easy communication and collaboration among scientists and researchers from around the world.\n\n**Question 1:**\nWhat is the main purpose of the internet according to the passage?\n\n**Answer 1:**\nThe main purpose of the internet, according to the passage, is to provide access to a vast amount of resources and facilitate communication and collaboration among scientists and researchers.\n\n**Question 2:**\nHow has the internet impacted the field of science?\n\n**Answer 2:**\nThe internet has revolutionized the field of science by providing easy access to resources, facilitating communication and collaboration among scientists, and expanding the reach of scientific research.\n\n**Exercise 2:**\nIdentify the purpose of the",
+  "retrieved_documents": [
+    {
+      "rank": 1,
+      "metadata": {
+        "doc_id": 2487,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: CROSS-REFERENCE TO RELATED APPLICATION \n     This application is based on and claims the priority of U.S. Provisional Patent Application Ser. No. 60/759,710, entitled FILTRATION AND RECOV..."
+    },
+    {
+      "rank": 2,
+      "metadata": {
+        "doc_id": 3530,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: FIELD OF THE INVENTION \n       [0001]    The present invention is in the field of laundry processes and devices. In particular the invention relates to the saving of water. \n       BACKGR..."
+    },
+    {
+      "rank": 3,
+      "metadata": {
+        "doc_id": 5001,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: BACKGROUND OF THE INVENTION \n       [0001]    Considerable effort has been made to develop asymmetric and composite membranes for ultra-filtration, nano-filtration, pervaporation, reverse..."
+    },
+    {
+      "rank": 4,
+      "metadata": {
+        "doc_id": 9777,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: FIELD OF INVENTION  \n         [0001]    The present invention is directed to a system and method for manufacturing filtration media.  \n         BACKGROUND  \n         [0002]    In the manu..."
+    },
+    {
+      "rank": 5,
+      "metadata": {
+        "doc_id": 8428,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: FIELD  \n       [0001]     The present document relates to a filtration and recovery system for a solvent-based liquid.  \n       SUMMARY  \n       [0002]     In an embodiment, a filtration ..."
+    }
+  ]
+}

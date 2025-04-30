@@ -1,0 +1,63 @@
+2025-04-28 09:09:15,161 - INFO - PyTorch version 2.2.1 available.
+2025-04-28 09:09:19,441 - INFO - Using device: cpu
+2025-04-28 09:09:19,442 - INFO - Loading BigPatent dataset...
+2025-04-28 09:09:20,950 - INFO - Dataset loaded successfully.
+2025-04-28 09:09:20,951 - INFO - Setting up embeddings...
+2025-04-28 09:09:21,125 - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-04-28 09:09:22,734 - INFO - Use pytorch device_name: mps
+2025-04-28 09:09:23,182 - INFO - Loading existing FAISS index...
+2025-04-28 09:09:23,192 - INFO - Loading faiss.
+2025-04-28 09:09:23,266 - INFO - Successfully loaded faiss.
+2025-04-28 09:09:23,905 - INFO - Loading tokenizer and model...
+2025-04-28 09:09:24,353 - ERROR - Error in generation module setup: Using `low_cpu_mem_usage=True` or a `device_map` requires Accelerate: `pip install accelerate`
+2025-04-28 09:09:54,729 - INFO - PyTorch version 2.2.1 available.
+2025-04-28 09:09:58,857 - INFO - Using device: cpu
+2025-04-28 09:09:58,857 - INFO - Loading BigPatent dataset...
+2025-04-28 09:10:00,189 - INFO - Dataset loaded successfully.
+2025-04-28 09:10:00,189 - INFO - Setting up embeddings...
+2025-04-28 09:10:00,220 - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-04-28 09:10:01,781 - INFO - Use pytorch device_name: mps
+2025-04-28 09:10:02,210 - INFO - Loading existing FAISS index...
+2025-04-28 09:10:02,231 - INFO - Loading faiss.
+2025-04-28 09:10:02,326 - INFO - Successfully loaded faiss.
+2025-04-28 09:10:02,755 - INFO - Loading tokenizer and model...
+2025-04-28 09:10:17,936 - INFO - Processing query: Find patents related to innovative solar panel technologies that discuss photovoltaic materials.
+2025-04-28 09:10:23,984 - INFO - Retrieved 5 documents
+2025-04-28 09:13:52,816 - INFO - Query result logged to ./evaluation_results/query_result_20250428_091352.json
+2025-04-28 09:13:52,819 - INFO - Processing query: Search for innovations in battery management systems for electric vehicles.
+2025-04-28 09:13:56,398 - INFO - Retrieved 5 documents
+2025-04-28 09:18:33,099 - INFO - Query result logged to ./evaluation_results/query_result_20250428_091833.json
+2025-04-28 09:18:33,107 - INFO - Processing query: Are there any patents on using AI for drug discovery?
+2025-04-28 09:18:35,971 - INFO - Retrieved 5 documents
+2025-04-28 09:24:45,626 - INFO - Query result logged to ./evaluation_results/query_result_20250428_092445.json
+2025-04-28 09:24:45,629 - INFO - Processing query: Summarize the main points about the described invention.
+2025-04-28 09:24:48,510 - INFO - Retrieved 5 documents
+2025-04-28 09:25:02,726 - INFO - PyTorch version 2.2.1 available.
+2025-04-28 09:25:06,542 - INFO - Using device: cpu
+2025-04-28 09:25:06,542 - INFO - Loading BigPatent dataset...
+2025-04-28 09:25:08,057 - INFO - Dataset loaded successfully.
+2025-04-28 09:25:08,058 - INFO - Setting up embeddings...
+2025-04-28 09:25:08,085 - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-04-28 09:25:09,341 - INFO - Use pytorch device_name: mps
+2025-04-28 09:25:09,514 - INFO - Loading existing FAISS index...
+2025-04-28 09:25:09,519 - INFO - Loading faiss.
+2025-04-28 09:25:09,563 - INFO - Successfully loaded faiss.
+2025-04-28 09:25:10,018 - INFO - Loading tokenizer and model...
+2025-04-28 09:25:17,540 - INFO - Processing query: Find patents related to innovative solar panel technologies that discuss photovoltaic materials.
+2025-04-28 09:25:19,418 - INFO - Retrieved 5 documents
+2025-04-28 09:28:10,460 - INFO - Query result logged to ./evaluation_results/query_result_20250428_092810.json
+2025-04-28 09:28:10,468 - INFO - Processing query: Search for innovations in battery management systems for electric vehicles.
+2025-04-28 09:28:13,124 - INFO - Retrieved 5 documents
+2025-04-28 09:31:22,913 - INFO - Query result logged to ./evaluation_results/query_result_20250428_093122.json
+2025-04-28 09:31:22,919 - INFO - Processing query: Are there any patents on using AI for drug discovery?
+2025-04-28 09:31:25,186 - INFO - Retrieved 5 documents
+2025-04-28 09:34:34,787 - INFO - Query result logged to ./evaluation_results/query_result_20250428_093434.json
+2025-04-28 09:34:34,789 - INFO - Processing query: Summarize the main points about the described invention.
+2025-04-28 09:34:37,181 - INFO - Retrieved 5 documents
+2025-04-28 09:37:25,926 - INFO - Query result logged to ./evaluation_results/query_result_20250428_093725.json
+2025-04-28 09:37:25,932 - INFO - Processing query: What is the purpose of the invention described in the most relevant document?
+2025-04-28 09:37:29,210 - INFO - Retrieved 5 documents
+2025-04-28 09:41:37,155 - INFO - Query result logged to ./evaluation_results/query_result_20250428_094137.json
+2025-04-28 09:41:37,157 - INFO - Processing query: How is the retrieved patent similar to a new application for wireless charging?
+2025-04-28 09:41:39,944 - INFO - Retrieved 5 documents
+2025-04-28 09:47:15,366 - INFO - Query result logged to ./evaluation_results/query_result_20250428_094715.json

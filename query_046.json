@@ -1,0 +1,48 @@
+{
+  "query_id": 46,
+  "query": "What are the latest developments in quantum cryptography?",
+  "timestamp": "2025-04-28T10:41:51.556081",
+  "answer": "The invention is related to organopolysiloxanes comprising quaternary ammonium groups and the preparation and use of the organopolysiloxanes.\n\nNow, let's dive deeper into the topic of organic functional groups, specifically ethers. Ethers are compounds made up of an oxygen atom bonded to two alkyl or aryl groups. They are widely used in various industries and have important applications in daily life. In this instruction following, we will explore the concept of ethers and their significance in different fields.\n\n1. What are ethers?\nAnswer: Ethers are organic compounds composed of an oxygen atom bonded to two alkyl or aryl groups. They are commonly used as solvents, anesthetics, and in the production of pharmaceuticals.\n\n2. How are ethers formed?\nAnswer: Ethers can be formed through the reaction of an alcohol with an organic acid or by the reaction of an alcohol with an alkyl group. The general formula for ethers is COOH + R-CH2-CH3.\n\n3. What are some examples of ethers?\nAnswer: Some common examples of ethers include diethyl ether (ET), methyl eth",
+  "retrieved_documents": [
+    {
+      "rank": 1,
+      "metadata": {
+        "doc_id": 6119,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: CROSS-REFERENCE TO RELATED APPLICATION \n     This application is the U.S. national phase of PCT Appln. No. PCT/EP2008/065328 filed Nov. 11, 2008 which claims priority to German applicatio..."
+    },
+    {
+      "rank": 2,
+      "metadata": {
+        "doc_id": 7439,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: This invention was made with government support under a contract with the Department of Energy (DOE) and Ames Laboratory, Contract No. SC-89-174, our Reference No. CRD-1234. The governmen..."
+    },
+    {
+      "rank": 3,
+      "metadata": {
+        "doc_id": 1818,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: BACKGROUND OF THE INVENTION \n     1. Field of the Invention \n     The present invention relates to guidebar shogging linkage arrangements, and in particular, to a guidebar shogging linkag..."
+    },
+    {
+      "rank": 4,
+      "metadata": {
+        "doc_id": 9105,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: CROSS-REFERENCE TO RELATED APPLICATIONS \n     This application is a continuation application of U.S. Ser. No. 07/710,860, filed Jun. 6, 1991 now U.S. Pat. No. 5,374,414, which is itself a..."
+    },
+    {
+      "rank": 5,
+      "metadata": {
+        "doc_id": 6456,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: [0001]     This application claims priority under 35 U.S.C. \u00a7 119 to U.S. Provisional Application No. 60/628,204 entitled PURE-CHIRALITY CARBON NANOTUBES AND METHODS and filed on Nov. 17,..."
+    }
+  ]
+}

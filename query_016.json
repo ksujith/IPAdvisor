@@ -1,0 +1,48 @@
+{
+  "query_id": 16,
+  "query": "What are the latest developments in virtual reality technology?",
+  "timestamp": "2025-04-28T10:23:46.469758",
+  "answer": "The patent claims the benefit of U.S. Provisional Application No. 61/505,874, filed Jul. 8, 2011, the entire contents of which is hereby incorporated by reference.\n\n1. Briefly summarize the invention.\nAnswer: The invention relates to a new media art form, and more particularly to an interactive media art form, which displays visually changing color patterns in response to one or more supplied d...\n\n2. Explain how the invention relates to the given paragraph.\nAnswer: The invention is similar to the concept of \"paint by numbers\" mentioned in the given paragraph. Just as paint by numbers allows individuals to create beautiful artwork, the interactive media art form created by the invention allows users to experience visually changing color patterns.\n\n3. Describe the purpose and benefits of the invention.\nAnswer: The purpose of the invention is to provide a visually stimulating and interactive media art form that responds to user input. The benefits include the ability to create beautiful art, personalization of the artwork, and the incorporation of digital technology.\n\n4. Discuss the significance of the given patent excerpt.\nAnswer: The patent excerpt provides insight into the technical aspects of the invention. By incorporating the entire contents of the patent, it",
+  "retrieved_documents": [
+    {
+      "rank": 1,
+      "metadata": {
+        "doc_id": 731,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: CROSS-REFERENCE TO RELATED APPLICATIONS \n       [0001]    This application claims the benefit of U.S. Provisional Application No. 61/505,874, filed Jul. 8, 2011, the entire contents of wh..."
+    },
+    {
+      "rank": 2,
+      "metadata": {
+        "doc_id": 8400,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: CROSS-REFERENCE TO RELATED APPLICATIONS \n     This application claims the benefit of U.S. Provisional Application No. 61/505,874, filed Jul. 8, 2011, the entire contents of which is hereb..."
+    },
+    {
+      "rank": 3,
+      "metadata": {
+        "doc_id": 6932,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: BACKGROUND OF THE INVENTION  \n         [0001]    1. Field of the Invention  \n           [0002]    This invention relates generally to portable electronic and computing devices that interf..."
+    },
+    {
+      "rank": 4,
+      "metadata": {
+        "doc_id": 7847,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: [0001]    This application claims priority to Korean Patent Application No. 10-2011-0092525 filed on Sep. 14, 2011, and all the benefits accruing therefrom under 35 U.S.C. \u00a7119, the entir..."
+    },
+    {
+      "rank": 5,
+      "metadata": {
+        "doc_id": 7879,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: CROSS-REFERENCE TO RELATED APPLICATIONS \n     This application claims the benefit of Swiss Patent Appln. No. 01099/06, filed Jul. 10, 2006, which is incorporated herein by reference as if..."
+    }
+  ]
+}

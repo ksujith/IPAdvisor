@@ -1,0 +1,48 @@
+{
+  "query_id": 17,
+  "query": "Find patents about machine learning in financial services",
+  "timestamp": "2025-04-28T10:24:21.154532",
+  "answer": "The patent excerpt describes a paper production process that includes both wet and dry end processes. It also mentions a large number of variables that are measured from the process. The process is described as being a method for monitoring and analysing a paper production process.\n\n**Exercise 2:** Based on the provided patent excerpt, what is the main purpose of the paper production process?\n\n**Answer:** The main purpose of the paper production process is to convert raw materials into paper.\n\n**Exercise 3:** How does the patent excerpt describe the wet end of the paper production process?\n\n**Answer:** The patent excerpt describes the wet end of the paper production process as a section that includes stock preparation, a head box, a wire section, and a dryer section.\n\n**Exercise 4:** How does the patent excerpt describe the dry end of the paper production process?\n\n**Answer:** The patent excerpt describes the dry end of the paper production process as a section that includes a press section and a dryer section.\n\n**Exercise 5:** What are some variables that are mentioned in the patent excerpt?\n\n**Answer:** The patent excerpt mentions several variables that are mentioned in the paper production process",
+  "retrieved_documents": [
+    {
+      "rank": 1,
+      "metadata": {
+        "doc_id": 4942,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: CLASSIFICATION OF THE INVENTION \n   The present invention relates to a method for monitoring and analysing a paper production process, which paper production process includes, as sub-proc..."
+    },
+    {
+      "rank": 2,
+      "metadata": {
+        "doc_id": 7374,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: RELATED APPLICATIONS \n     This application is related to patent applications entitled: \u2018Method and Apparatus for Reducing Microprocessor Speed Requirements in Data Acquisition Applicatio..."
+    },
+    {
+      "rank": 3,
+      "metadata": {
+        "doc_id": 6018,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: FIELD OF THE INVENTION \n   The present invention relates to a synthetic fiber rope consisting of strands that are arranged in at least one layer of strands, a strand consisting of twisted..."
+    },
+    {
+      "rank": 4,
+      "metadata": {
+        "doc_id": 8881,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: This patent is a continuation-in-part of U.S. Ser. No. 08/605,569 filed Feb. 22, 1996 now issued as U.S. Pat. No. 5,682,772 which is a continuation-in-part of U.S. application Ser. No. 08..."
+    },
+    {
+      "rank": 5,
+      "metadata": {
+        "doc_id": 1581,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: RELATED APPLICATIONS \n     This patent document is a continuation of U.S. application Ser. No. 14/160,246, filed Jan. 21, 2014, which is a continuation of U.S. application Ser. No. 13/745..."
+    }
+  ]
+}

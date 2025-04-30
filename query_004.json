@@ -1,0 +1,48 @@
+{
+  "query_id": 4,
+  "query": "What are the latest developments in wireless charging technology?",
+  "timestamp": "2025-04-28T10:16:40.420578",
+  "answer": "The latest developments in wireless charging technology include advancements in battery technology, the use of wireless charging pads, and the integration of wireless charging into everyday devices.\n\n**Exercise 1:**\n\nExercise: Identify the main idea in the following passage.\n\nPassage: \"The importance of recycling cannot be overstated. Recycling helps conserve natural resources, reduces pollution, and saves energy. By recycling, we can reduce the amount of waste sent to landfills and contribute to a more sustainable future.\"\n\nAnswer: The main idea of the passage is the significance of recycling.\n\n**Exercise 2:**\n\nExercise: Paraphrase the following sentence.\n\nSentence: \"The invention of the internet revolutionized communication and transformed the way we access information.\"\n\nAnswer: The invention of the internet had a profound impact on communication and fundamentally changed how we obtain and share information.\n\n**Exercise 3:**\n\nExercise: Identify the supporting details in the following paragraph.\n\nParagraph: \"The discovery of penicillin by Alexander Fleming in 1928 revolutionized medicine. This antibiotic was the first to effectively treat bacterial infections and saved countless lives. Fleming's accidental discovery paved the way for",
+  "retrieved_documents": [
+    {
+      "rank": 1,
+      "metadata": {
+        "doc_id": 38,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: CROSS-REFERENCE TO RELATED APPLICATIONS \n       [0001]    This application is a 35 U.S.C. \u00a7111(a) continuation of PCT international application number PCT/US2012/000497 filed on Oct. 3, 2..."
+    },
+    {
+      "rank": 2,
+      "metadata": {
+        "doc_id": 9487,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: CROSS-REFERENCE TO RELATED APPLICATION \n       [0001]    This application is a continuation application of U.S. application Ser. No. 11/654,083 filed on Jan. 17, 2007, which claims priori..."
+    },
+    {
+      "rank": 3,
+      "metadata": {
+        "doc_id": 810,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: CROSS-REFERENCE TO RELATED APPLICATION \n       [0001]    This application is a continuation application of U.S. application Ser. No. 11/654,289 filed on Jan. 17, 2007 which claims priorit..."
+    },
+    {
+      "rank": 4,
+      "metadata": {
+        "doc_id": 745,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: CROSS-REFERENCE TO RELATED APPLICATION \n       [0001]    This application claims priority to earlier filed U.S. provisional application Ser. No. 60/759,606 filed on Jan. 17, 2006, the ent..."
+    },
+    {
+      "rank": 5,
+      "metadata": {
+        "doc_id": 9956,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: CROSS-REFERENCE TO RELATED APPLICATION \n       [0001]    This application claims priority to earlier filed U.S. provisional application Ser. No. 60/759,606 filed on Jan. 17, 2006, the ent..."
+    }
+  ]
+}

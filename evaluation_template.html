@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IPAdvisor Evaluation Form</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        .query-section {
+            margin-bottom: 30px;
+            padding: 20px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+        }
+        .document-section {
+            margin: 15px 0;
+            padding: 10px;
+            background-color: #f5f5f5;
+        }
+        .rating-scale {
+            display: flex;
+            gap: 10px;
+            margin: 10px 0;
+        }
+        .rating-option {
+            padding: 5px 10px;
+            border: 1px solid #ccc;
+            border-radius: 3px;
+            cursor: pointer;
+        }
+        .rating-option:hover {
+            background-color: #e0e0e0;
+        }
+        textarea {
+            width: 100%;
+            min-height: 100px;
+            margin: 10px 0;
+        }
+    </style>
+</head>
+<body>
+    <h1>IPAdvisor Evaluation Form</h1>
+    
+    <div class="query-section">
+        <h2>Query Information</h2>
+        <p><strong>Query ID:</strong> <span id="query-id"></span></p>
+        <p><strong>Query:</strong> <span id="query-text"></span></p>
+    </div>
+
+    <div class="query-section">
+        <h2>Generated Answer</h2>
+        <p id="generated-answer"></p>
+        
+        <h3>Answer Evaluation</h3>
+        <div>
+            <p><strong>Clarity:</strong></p>
+            <div class="rating-scale">
+                <div class="rating-option">1 (Poor)</div>
+                <div class="rating-option">2</div>
+                <div class="rating-option">3</div>
+                <div class="rating-option">4</div>
+                <div class="rating-option">5 (Excellent)</div>
+            </div>
+        </div>
+        
+        <div>
+            <p><strong>Supportiveness:</strong></p>
+            <div class="rating-scale">
+                <div class="rating-option">1 (Poor)</div>
+                <div class="rating-option">2</div>
+                <div class="rating-option">3</div>
+                <div class="rating-option">4</div>
+                <div class="rating-option">5 (Excellent)</div>
+            </div>
+        </div>
+        
+        <div>
+            <p><strong>Accuracy:</strong></p>
+            <div class="rating-scale">
+                <div class="rating-option">1 (Poor)</div>
+                <div class="rating-option">2</div>
+                <div class="rating-option">3</div>
+                <div class="rating-option">4</div>
+                <div class="rating-option">5 (Excellent)</div>
+            </div>
+        </div>
+        
+        <div>
+            <p><strong>Additional Comments:</strong></p>
+            <textarea id="answer-comments"></textarea>
+        </div>
+    </div>
+
+    <div class="query-section">
+        <h2>Retrieved Documents</h2>
+        <div id="documents-container">
+            <!-- Documents will be dynamically inserted here -->
+        </div>
+    </div>
+
+    <div class="query-section">
+        <h2>Overall Assessment</h2>
+        <div>
+            <p><strong>Overall Quality:</strong></p>
+            <div class="rating-scale">
+                <div class="rating-option">1 (Poor)</div>
+                <div class="rating-option">2</div>
+                <div class="rating-option">3</div>
+                <div class="rating-option">4</div>
+                <div class="rating-option">5 (Excellent)</div>
+            </div>
+        </div>
+        
+        <div>
+            <p><strong>Final Comments:</strong></p>
+            <textarea id="final-comments"></textarea>
+        </div>
+    </div>
+
+    <script>
+        // Template for document section
+        const documentTemplate = `
+            <div class="document-section">
+                <h3>Document <span class="doc-rank"></span></h3>
+                <p><strong>Publication Number:</strong> <span class="pub-number"></span></p>
+                <p><strong>Publication Date:</strong> <span class="pub-date"></span></p>
+                <p><strong>Excerpt:</strong></p>
+                <p class="doc-excerpt"></p>
+                
+                <div>
+                    <p><strong>Relevance to Query:</strong></p>
+                    <div class="rating-scale">
+                        <div class="rating-option">1 (Not Relevant)</div>
+                        <div class="rating-option">2</div>
+                        <div class="rating-option">3</div>
+                        <div class="rating-option">4</div>
+                        <div class="rating-option">5 (Highly Relevant)</div>
+                    </div>
+                </div>
+                
+                <div>
+                    <p><strong>Comments:</strong></p>
+                    <textarea class="doc-comments"></textarea>
+                </div>
+            </div>
+        `;
+
+        // Function to populate the form with data
+        function populateForm(data) {
+            document.getElementById('query-id').textContent = data.query_id;
+            document.getElementById('query-text').textContent = data.query;
+            document.getElementById('generated-answer').textContent = data.answer;
+            
+            const container = document.getElementById('documents-container');
+            container.innerHTML = '';
+            
+            data.retrieved_documents.forEach((doc, index) => {
+                const docElement = document.createElement('div');
+                docElement.innerHTML = documentTemplate;
+                
+                docElement.querySelector('.doc-rank').textContent = index + 1;
+                docElement.querySelector('.pub-number').textContent = doc.metadata.publication_number;
+                docElement.querySelector('.pub-date').textContent = doc.metadata.publication_date;
+                docElement.querySelector('.doc-excerpt').textContent = doc.excerpt;
+                
+                container.appendChild(docElement);
+            });
+        }
+    </script>
+</body>
+</html> 

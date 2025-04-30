@@ -1,0 +1,48 @@
+{
+  "query_id": 45,
+  "query": "Search for innovations in air purification",
+  "timestamp": "2025-04-28T10:41:07.832994",
+  "answer": "The invention is a device that uses air filters to purify indoor air.\n\n**Exercise 2: Vocabulary Matching**\n\nMatch the following words with their meanings:\n\n1. Pathogen\n2. Air filtration\n3. Medication\n4. Purify\n\na. A substance that can cause diseases or health problems.\nb. A device or process that removes impurities from the air.\nc. A substance used to treat or prevent diseases.\nd. To make something cleaner or more suitable.\n\n**Answer:**\n1. a\n2. b\n3. c\n4. d\n\n**Exercise 3: Sentence Completion**\n\nComplete the following sentence by choosing the correct word from the options given.\n\nAir filters are an essential part of __ systems that help keep indoor air clean.\n\na. Heating\nb. Ventilation\nc. Refrigeration\nd. Air conditioning\n\n**Answer:** b. Ventilation\n\n**Exercise 4: Critical Thinking**\n\nImagine you are an inventor tasked with creating a device to improve air quality in a hospital. Discuss the potential benefits and challenges of your invention, considering factors such as",
+  "retrieved_documents": [
+    {
+      "rank": 1,
+      "metadata": {
+        "doc_id": 1444,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: CROSS REFERENCE TO RELATED APPLICATIONS  \n       [0001]    This application claims the benefit of U.S. provisional application Serial No. 60/345,137, filed on Oct. 19, 2001. \n     \n    \n ..."
+    },
+    {
+      "rank": 2,
+      "metadata": {
+        "doc_id": 5444,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: CROSS REFERENCE TO RELATED APPLICATIONS \n     This application claims the benefit of U.S. provisional application Serial No. 60/345,137, filed on Oct. 19, 2001. \n    \n    \n     FIELD OF T..."
+    },
+    {
+      "rank": 3,
+      "metadata": {
+        "doc_id": 6161,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: [0001]     This application claims priority of Provisional Application Ser. No. 60/789,484 filed on Apr. 5, 2006, the disclosure of which is incorporated herein by reference. \n     \n    \n..."
+    },
+    {
+      "rank": 4,
+      "metadata": {
+        "doc_id": 5464,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: CROSS-REFERENCE TO RELATED APPLICATIONS  \n       [0001]     This application is a national stage filing under 35 U.S.C. \u00a7371 based upon international application no. PCT/CA2009/001539, fi..."
+    },
+    {
+      "rank": 5,
+      "metadata": {
+        "doc_id": 6998,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: CROSS-REFERENCE TO RELATED APPLICATIONS \n     This application is a national stage filing under 35 U.S.C. \u00a7371 based upon international application no. PCT/CA2009/001539, filed 26 Oct. 20..."
+    }
+  ]
+}

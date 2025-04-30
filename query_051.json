@@ -1,0 +1,48 @@
+{
+  "query_id": 51,
+  "query": "Search for innovations in waste recycling",
+  "timestamp": "2025-04-28T10:45:01.593525",
+  "answer": "The patent application describes a process of making absorbent granular materials from waste paper, including a method of drying waste paper to form a solid material that can be used to absorb liquids.\n\n**Exercise 2:**\n\nQuestion: Based on the provided patent excerpt, what is the main focus of the invention?\n\nAnswer: The main focus of the invention is to develop a method of making absorbent granular materials from waste paper.\n\n**Exercise 3:**\n\nQuestion: How is the invention related to waste paper recycling?\n\nAnswer: The invention is related to waste paper recycling by providing a method for recycling waste paper and converting it into a usable material for absorbent granular products.\n\n**Exercise 4:**\n\nQuestion: What is the significance of the drying process in the invention?\n\nAnswer: The drying process is significant in the invention as it allows the waste paper to be transformed into a solid material that can absorb liquids effectively.\n\n**Exercise 5:**\n\nQuestion: Can you provide an example of a potential product that could be made using the invention?\n\nAnswer: A potential product that could be made using the invention is absorbent granular materials, such as paper towels",
+  "retrieved_documents": [
+    {
+      "rank": 1,
+      "metadata": {
+        "doc_id": 4573,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: CROSS-REFERENCE TO RELATED APPLICATIONS \n     This application is a continuation of U.S. application Ser. No. 08/576,850 filed Dec. 22, 1995, now abandoned which is a continuation of U.S...."
+    },
+    {
+      "rank": 2,
+      "metadata": {
+        "doc_id": 1958,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: CROSS REFERENCES TO RELATED APPLICATIONS  \n       [0001]    This application is a U.S. National Stage application of International Application No. PCT/FI02/00744, filed Sep. 19, 2002, and..."
+    },
+    {
+      "rank": 3,
+      "metadata": {
+        "doc_id": 8435,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: [0001]    This application is a division of application Ser. No. 09/557,176, filed Apr. 21, 2000. \n     \n    \n     \n       BACKGROUND OF THE INVENTION  \n         [0002]    1. Field of the..."
+    },
+    {
+      "rank": 4,
+      "metadata": {
+        "doc_id": 3465,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: BACKGROUND OF THE INVENTION \n     The present invention relates to recycling and more particularly to the recycling of diverse pulp and paper products to provide a homogenous cellulosic f..."
+    },
+    {
+      "rank": 5,
+      "metadata": {
+        "doc_id": 3616,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: SCOPE OF THE INVENTION \n       [0001]    The present invention relates to an apparatus for use in a recycling process to separate waste and contaminant materials from fibrous materials, s..."
+    }
+  ]
+}

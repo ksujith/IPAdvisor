@@ -1,0 +1,48 @@
+{
+  "query_id": 14,
+  "query": "Find patents related to 3D printing in healthcare",
+  "timestamp": "2025-04-28T10:22:33.459213",
+  "answer": "The invention relates to 3D printing in healthcare.\n\n**Exercise 2:** In the provided patent, which fields is the invention related to?\n\n**Answer:** The invention is related to the fields of biomedical materials and medical devices.\n\n**Exercise 3:** What is the purpose of the patent?\n\n**Answer:** The purpose of the patent is to protect the intellectual property rights of the inventors and grant them exclusive rights to their invention.\n\n**Exercise 4:** Can the patent be applied to other industries or technologies?\n\n**Answer:** No, the patent is specific to the invention of 3D printing in healthcare and is not applicable to other industries or technologies.\n\n**Exercise 5:** How does the patent process work?\n\n**Answer:** The patent process involves submitting an application to the U.S. Patent and Trademark Office, providing details about the invention, and supporting documents. If the application is approved, the inventors are granted a patent that protects their invention from unauthorized use or copying.\n\n**Exercise 6:** What are some other benefits of patents for inventors?\n\n**Answer:** Patents provide inventors with the ability to control",
+  "retrieved_documents": [
+    {
+      "rank": 1,
+      "metadata": {
+        "doc_id": 2930,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: RELATED APPLICATIONS \n       [0001]    This application claims the benefit of priority to U.S. Provisional Application Ser. No. 60/882,065, filed Dec. 27, 2006, U.S. Provisional Applicati..."
+    },
+    {
+      "rank": 2,
+      "metadata": {
+        "doc_id": 3060,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: CROSS-REFERENCE TO RELATED APPLICATIONS \n       [0001]    This application claims benefit of and priority to European Patent Application Serial No. 14306956.5 filed Dec. 5, 2014, the disc..."
+    },
+    {
+      "rank": 3,
+      "metadata": {
+        "doc_id": 1467,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: PRIORITY \n       [0001]    The present application claims priority to U.S. Provisional Patent Application Ser. No. 62/204,738 filed Aug. 13, 2015, the disclosure of which is hereby incorp..."
+    },
+    {
+      "rank": 4,
+      "metadata": {
+        "doc_id": 7812,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: This is a continuation of application Ser. No. 07/944,595, filed on Sep. 14, 1992, abandoned. \n    \n    \n     BACKGROUND OF THE INVENTION \n     This invention relates to medical devices f..."
+    },
+    {
+      "rank": 5,
+      "metadata": {
+        "doc_id": 6555,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: BACKGROUND OF INVENTION  \n         [0001]    This patent relates to a method of making a dry bonded paperboard structure. More particularly, this patent relates to a method of making a sp..."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "query_id": 28,
+  "query": "What are the latest developments in augmented reality?",
+  "timestamp": "2025-04-28T10:30:37.569087",
+  "answer": "The patent claims the benefit of a new media art form, which displays visually changing color patterns in response to one or more supplied d...\n\n**Exercise 1:**\n\nWrite a sentence that includes the word \"because\" to explain the importance of punctuation in language arts.\n\n**Answer:** Punctuation is essential in language arts because it helps to clarify meaning and enhance communication.\n\n**Exercise 2:**\n\nRewrite the following sentence to include a semicolon:\n\n\"I love playing soccer it is my favorite sport.\"\n\n**Answer:** \"I love playing soccer; it is my favorite sport.\"\n\n**Exercise 3:**\n\nRewrite the following sentence to include a colon:\n\n\"I have a list of things I need to buy at the grocery store.\"\n\n**Answer:** \"I have a list of things I need to buy at the grocery store: milk, bread, eggs, and cheese.\"\n\n**Exercise 4:**\n\nWrite a sentence that includes a comma to separate two independent clauses.\n\n**Answer:** \"She studied hard for the test, but she still didn't do well.\"\n\n**Exercise 5:",
+  "retrieved_documents": [
+    {
+      "rank": 1,
+      "metadata": {
+        "doc_id": 731,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: CROSS-REFERENCE TO RELATED APPLICATIONS \n       [0001]    This application claims the benefit of U.S. Provisional Application No. 61/505,874, filed Jul. 8, 2011, the entire contents of wh..."
+    },
+    {
+      "rank": 2,
+      "metadata": {
+        "doc_id": 8400,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: CROSS-REFERENCE TO RELATED APPLICATIONS \n     This application claims the benefit of U.S. Provisional Application No. 61/505,874, filed Jul. 8, 2011, the entire contents of which is hereb..."
+    },
+    {
+      "rank": 3,
+      "metadata": {
+        "doc_id": 6932,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: BACKGROUND OF THE INVENTION  \n         [0001]    1. Field of the Invention  \n           [0002]    This invention relates generally to portable electronic and computing devices that interf..."
+    },
+    {
+      "rank": 4,
+      "metadata": {
+        "doc_id": 7189,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: CROSS-REFERENCE TO RELATED APPLICATIONS  \n       [0001]    This application claims the benefits of and priority to U.S. Provisional Patent Application Serial No. 60/385,203 filed on Jun. ..."
+    },
+    {
+      "rank": 5,
+      "metadata": {
+        "doc_id": 7725,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: CROSS-REFERENCE TO RELATED APPLICATION \n       [0001]    This application claims priority and benefit of U.S. Provisional Patent Application 61/981,924 filed Apr. 21, 2014 entitled SWIVEL..."
+    }
+  ]
+}

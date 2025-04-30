@@ -1,0 +1,48 @@
+{
+  "query_id": 49,
+  "query": "What are the recent patents in smart healthcare?",
+  "timestamp": "2025-04-28T10:43:44.897988",
+  "answer": "The patent claims priority from a U.S. Provisional Application 61/284,772, filed Dec. 24, 2009, and from U.S. Provisional Application 61/398,949, filed Jul. 2, 2010.\n\n\n\nIn the world of science, communication plays a crucial role in sharing ideas, data, and observations. Just like in our daily lives, effective communication is essential in the field of physical science, especially when it comes to analyzing and interpreting data. Let's explore this topic further by looking at how communication and data are related to the concept of success and loss in daily life.\n\nQuestion: How does communication relate to success or loss in daily life?\nAnswer: Communication is the key to success or loss in many aspects of our daily lives. Just like in science, effective communication allows us to express our thoughts, share information, and understand others better. Whether it's in personal relationships, academic settings, or professional environments, the ability to communicate clearly and concisely can greatly impact our chances of achieving success.\n\nQuestion: Can you give an example of how communication can lead to success in daily life?\nAnswer: Certainly! Let's say you have a goal of organizing a surprise party for your friend. To",
+  "retrieved_documents": [
+    {
+      "rank": 1,
+      "metadata": {
+        "doc_id": 919,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: RELATED APPLICATIONS DATA \n       [0001]    This application claims priority from U.S. Provisional Application 61/284,772, filed Dec. 24, 2009, and from U.S. Provisional Application 61/39..."
+    },
+    {
+      "rank": 2,
+      "metadata": {
+        "doc_id": 4168,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: CROSS-REFERENCE TO RELATED APPLICATIONS \n       [0001]    This utility patent application filed under 35 USC \u00a7111 is a continuation-in-part of U.S. non-provisional application Ser. No. 13..."
+    },
+    {
+      "rank": 3,
+      "metadata": {
+        "doc_id": 1124,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: RELATED APPLICATION \n       [0001]    This application claims the benefit of U.S. Provisional Patent Application No. 61/095,970, which was filed on Sep. 11, 2008. The content of the U.S. ..."
+    },
+    {
+      "rank": 4,
+      "metadata": {
+        "doc_id": 9626,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: [0001]    This application is a continuation-in-part of provisional application 60/288,036, filed May 2, 2001, and incorporated by reference herein as if set forth in full. The present in..."
+    },
+    {
+      "rank": 5,
+      "metadata": {
+        "doc_id": 1581,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: RELATED APPLICATIONS \n     This patent document is a continuation of U.S. application Ser. No. 14/160,246, filed Jan. 21, 2014, which is a continuation of U.S. application Ser. No. 13/745..."
+    }
+  ]
+}

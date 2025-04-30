@@ -1,0 +1,852 @@
+2025-04-28 09:59:10,155 - INFO - Processing query 1/60: Find patents related to innovative solar panel technologies that discuss photovoltaic materials
+2025-04-28 09:59:14,953 - ERROR - Error processing query 1: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:14,953 - INFO - Processing query 2/60: Search for innovations in battery management systems for electric vehicles
+2025-04-28 09:59:14,954 - ERROR - Error processing query 2: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:14,954 - INFO - Processing query 3/60: Are there any patents on using AI for drug discovery?
+2025-04-28 09:59:14,955 - ERROR - Error processing query 3: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:14,955 - INFO - Processing query 4/60: What are the latest developments in wireless charging technology?
+2025-04-28 09:59:14,956 - ERROR - Error processing query 4: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:14,956 - INFO - Processing query 5/60: Find patents about blockchain applications in supply chain management
+2025-04-28 09:59:14,957 - ERROR - Error processing query 5: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:14,957 - INFO - Processing query 6/60: Search for innovations in water purification systems
+2025-04-28 09:59:14,958 - ERROR - Error processing query 6: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:14,958 - INFO - Processing query 7/60: What are the recent patents in quantum computing?
+2025-04-28 09:59:14,959 - ERROR - Error processing query 7: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:14,959 - INFO - Processing query 8/60: Find patents related to autonomous vehicle navigation systems
+2025-04-28 09:59:14,960 - ERROR - Error processing query 8: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:14,960 - INFO - Processing query 9/60: Search for innovations in renewable energy storage
+2025-04-28 09:59:14,961 - ERROR - Error processing query 9: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:14,961 - INFO - Processing query 10/60: What are the latest developments in medical imaging technology?
+2025-04-28 09:59:14,962 - ERROR - Error processing query 10: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:14,962 - INFO - Processing query 11/60: Find patents about smart home automation systems
+2025-04-28 09:59:14,963 - ERROR - Error processing query 11: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:14,963 - INFO - Processing query 12/60: Search for innovations in cybersecurity for IoT devices
+2025-04-28 09:59:14,965 - ERROR - Error processing query 12: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:14,965 - INFO - Processing query 13/60: What are the recent patents in gene editing technology?
+2025-04-28 09:59:14,966 - ERROR - Error processing query 13: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:14,966 - INFO - Processing query 14/60: Find patents related to 3D printing in healthcare
+2025-04-28 09:59:14,967 - ERROR - Error processing query 14: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:14,967 - INFO - Processing query 15/60: Search for innovations in sustainable packaging materials
+2025-04-28 09:59:14,969 - ERROR - Error processing query 15: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:14,969 - INFO - Processing query 16/60: What are the latest developments in virtual reality technology?
+2025-04-28 09:59:14,970 - ERROR - Error processing query 16: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:14,970 - INFO - Processing query 17/60: Find patents about machine learning in financial services
+2025-04-28 09:59:14,971 - ERROR - Error processing query 17: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:14,971 - INFO - Processing query 18/60: Search for innovations in carbon capture technology
+2025-04-28 09:59:14,972 - ERROR - Error processing query 18: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:14,972 - INFO - Processing query 19/60: What are the recent patents in wearable health monitoring?
+2025-04-28 09:59:14,973 - ERROR - Error processing query 19: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:14,973 - INFO - Processing query 20/60: Find patents related to smart grid technology
+2025-04-28 09:59:14,974 - ERROR - Error processing query 20: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:14,974 - INFO - Processing query 21/60: Search for innovations in biodegradable materials
+2025-04-28 09:59:14,975 - ERROR - Error processing query 21: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:14,975 - INFO - Processing query 22/60: What are the latest developments in drone technology?
+2025-04-28 09:59:14,976 - ERROR - Error processing query 22: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:14,976 - INFO - Processing query 23/60: Find patents about blockchain in healthcare
+2025-04-28 09:59:14,977 - ERROR - Error processing query 23: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:14,977 - INFO - Processing query 24/60: Search for innovations in energy-efficient buildings
+2025-04-28 09:59:14,978 - ERROR - Error processing query 24: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:14,979 - INFO - Processing query 25/60: What are the recent patents in robotics for manufacturing?
+2025-04-28 09:59:14,981 - ERROR - Error processing query 25: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:14,981 - INFO - Processing query 26/60: Find patents related to 5G network technology
+2025-04-28 09:59:14,982 - ERROR - Error processing query 26: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:14,982 - INFO - Processing query 27/60: Search for innovations in food preservation
+2025-04-28 09:59:14,983 - ERROR - Error processing query 27: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:14,983 - INFO - Processing query 28/60: What are the latest developments in augmented reality?
+2025-04-28 09:59:14,984 - ERROR - Error processing query 28: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:14,984 - INFO - Processing query 29/60: Find patents about AI in education
+2025-04-28 09:59:14,985 - ERROR - Error processing query 29: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:14,985 - INFO - Processing query 30/60: Search for innovations in waste management
+2025-04-28 09:59:14,986 - ERROR - Error processing query 30: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:14,986 - INFO - Processing query 31/60: What are the recent patents in smart agriculture?
+2025-04-28 09:59:14,986 - ERROR - Error processing query 31: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:14,987 - INFO - Processing query 32/60: Find patents related to brain-computer interfaces
+2025-04-28 09:59:14,987 - ERROR - Error processing query 32: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:14,987 - INFO - Processing query 33/60: Search for innovations in sustainable transportation
+2025-04-28 09:59:14,988 - ERROR - Error processing query 33: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:14,988 - INFO - Processing query 34/60: What are the latest developments in nanotechnology?
+2025-04-28 09:59:14,990 - ERROR - Error processing query 34: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:14,990 - INFO - Processing query 35/60: Find patents about machine learning in healthcare
+2025-04-28 09:59:14,991 - ERROR - Error processing query 35: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:14,991 - INFO - Processing query 36/60: Search for innovations in renewable energy generation
+2025-04-28 09:59:14,992 - ERROR - Error processing query 36: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:14,993 - INFO - Processing query 37/60: What are the recent patents in smart city technology?
+2025-04-28 09:59:14,994 - ERROR - Error processing query 37: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:14,994 - INFO - Processing query 38/60: Find patents related to digital twin technology
+2025-04-28 09:59:14,995 - ERROR - Error processing query 38: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:14,995 - INFO - Processing query 39/60: Search for innovations in water conservation
+2025-04-28 09:59:14,997 - ERROR - Error processing query 39: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:14,997 - INFO - Processing query 40/60: What are the latest developments in biometric security?
+2025-04-28 09:59:14,998 - ERROR - Error processing query 40: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:14,999 - INFO - Processing query 41/60: Find patents about blockchain in supply chain
+2025-04-28 09:59:15,000 - ERROR - Error processing query 41: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:15,000 - INFO - Processing query 42/60: Search for innovations in sustainable fashion
+2025-04-28 09:59:15,000 - ERROR - Error processing query 42: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:15,001 - INFO - Processing query 43/60: What are the recent patents in space technology?
+2025-04-28 09:59:15,001 - ERROR - Error processing query 43: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:15,001 - INFO - Processing query 44/60: Find patents related to smart manufacturing
+2025-04-28 09:59:15,002 - ERROR - Error processing query 44: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:15,002 - INFO - Processing query 45/60: Search for innovations in air purification
+2025-04-28 09:59:15,003 - ERROR - Error processing query 45: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:15,003 - INFO - Processing query 46/60: What are the latest developments in quantum cryptography?
+2025-04-28 09:59:15,004 - ERROR - Error processing query 46: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:15,004 - INFO - Processing query 47/60: Find patents about AI in transportation
+2025-04-28 09:59:15,005 - ERROR - Error processing query 47: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:15,005 - INFO - Processing query 48/60: Search for innovations in sustainable agriculture
+2025-04-28 09:59:15,006 - ERROR - Error processing query 48: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:15,006 - INFO - Processing query 49/60: What are the recent patents in smart healthcare?
+2025-04-28 09:59:15,007 - ERROR - Error processing query 49: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:15,007 - INFO - Processing query 50/60: Find patents related to renewable energy distribution
+2025-04-28 09:59:15,007 - ERROR - Error processing query 50: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:15,008 - INFO - Processing query 51/60: Search for innovations in waste recycling
+2025-04-28 09:59:15,009 - ERROR - Error processing query 51: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:15,009 - INFO - Processing query 52/60: What are the latest developments in edge computing?
+2025-04-28 09:59:15,010 - ERROR - Error processing query 52: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:15,010 - INFO - Processing query 53/60: Find patents about machine learning in cybersecurity
+2025-04-28 09:59:15,011 - ERROR - Error processing query 53: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:15,011 - INFO - Processing query 54/60: Search for innovations in sustainable construction
+2025-04-28 09:59:15,012 - ERROR - Error processing query 54: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:15,012 - INFO - Processing query 55/60: What are the recent patents in smart energy management?
+2025-04-28 09:59:15,014 - ERROR - Error processing query 55: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:15,014 - INFO - Processing query 56/60: Find patents related to digital health technology
+2025-04-28 09:59:15,015 - ERROR - Error processing query 56: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:15,015 - INFO - Processing query 57/60: Search for innovations in sustainable packaging
+2025-04-28 09:59:15,016 - ERROR - Error processing query 57: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:15,016 - INFO - Processing query 58/60: What are the latest developments in quantum sensors?
+2025-04-28 09:59:15,017 - ERROR - Error processing query 58: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:15,017 - INFO - Processing query 59/60: Find patents about AI in manufacturing
+2025-04-28 09:59:15,018 - ERROR - Error processing query 59: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:15,018 - INFO - Processing query 60/60: Search for innovations in sustainable materials
+2025-04-28 09:59:15,019 - ERROR - Error processing query 60: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:15,019 - INFO - Saved all results to results/all_results.json
+2025-04-28 09:59:44,856 - INFO - Processing query 1/60: Find patents related to innovative solar panel technologies that discuss photovoltaic materials
+2025-04-28 09:59:45,025 - ERROR - Error processing query 1: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:45,026 - INFO - Processing query 2/60: Search for innovations in battery management systems for electric vehicles
+2025-04-28 09:59:45,026 - ERROR - Error processing query 2: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:45,026 - INFO - Processing query 3/60: Are there any patents on using AI for drug discovery?
+2025-04-28 09:59:45,027 - ERROR - Error processing query 3: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:45,027 - INFO - Processing query 4/60: What are the latest developments in wireless charging technology?
+2025-04-28 09:59:45,028 - ERROR - Error processing query 4: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:45,028 - INFO - Processing query 5/60: Find patents about blockchain applications in supply chain management
+2025-04-28 09:59:45,029 - ERROR - Error processing query 5: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:45,029 - INFO - Processing query 6/60: Search for innovations in water purification systems
+2025-04-28 09:59:45,029 - ERROR - Error processing query 6: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:45,029 - INFO - Processing query 7/60: What are the recent patents in quantum computing?
+2025-04-28 09:59:45,030 - ERROR - Error processing query 7: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:45,030 - INFO - Processing query 8/60: Find patents related to autonomous vehicle navigation systems
+2025-04-28 09:59:45,031 - ERROR - Error processing query 8: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:45,031 - INFO - Processing query 9/60: Search for innovations in renewable energy storage
+2025-04-28 09:59:45,032 - ERROR - Error processing query 9: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:45,032 - INFO - Processing query 10/60: What are the latest developments in medical imaging technology?
+2025-04-28 09:59:45,032 - ERROR - Error processing query 10: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:45,032 - INFO - Processing query 11/60: Find patents about smart home automation systems
+2025-04-28 09:59:45,033 - ERROR - Error processing query 11: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:45,033 - INFO - Processing query 12/60: Search for innovations in cybersecurity for IoT devices
+2025-04-28 09:59:45,034 - ERROR - Error processing query 12: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:45,034 - INFO - Processing query 13/60: What are the recent patents in gene editing technology?
+2025-04-28 09:59:45,035 - ERROR - Error processing query 13: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:45,035 - INFO - Processing query 14/60: Find patents related to 3D printing in healthcare
+2025-04-28 09:59:45,036 - ERROR - Error processing query 14: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:45,036 - INFO - Processing query 15/60: Search for innovations in sustainable packaging materials
+2025-04-28 09:59:45,037 - ERROR - Error processing query 15: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:45,038 - INFO - Processing query 16/60: What are the latest developments in virtual reality technology?
+2025-04-28 09:59:45,038 - ERROR - Error processing query 16: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:45,038 - INFO - Processing query 17/60: Find patents about machine learning in financial services
+2025-04-28 09:59:45,039 - ERROR - Error processing query 17: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:45,039 - INFO - Processing query 18/60: Search for innovations in carbon capture technology
+2025-04-28 09:59:45,040 - ERROR - Error processing query 18: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:45,040 - INFO - Processing query 19/60: What are the recent patents in wearable health monitoring?
+2025-04-28 09:59:45,041 - ERROR - Error processing query 19: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:45,041 - INFO - Processing query 20/60: Find patents related to smart grid technology
+2025-04-28 09:59:45,042 - ERROR - Error processing query 20: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:45,042 - INFO - Processing query 21/60: Search for innovations in biodegradable materials
+2025-04-28 09:59:45,043 - ERROR - Error processing query 21: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:45,043 - INFO - Processing query 22/60: What are the latest developments in drone technology?
+2025-04-28 09:59:45,044 - ERROR - Error processing query 22: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:45,044 - INFO - Processing query 23/60: Find patents about blockchain in healthcare
+2025-04-28 09:59:45,045 - ERROR - Error processing query 23: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:45,045 - INFO - Processing query 24/60: Search for innovations in energy-efficient buildings
+2025-04-28 09:59:45,045 - ERROR - Error processing query 24: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:45,045 - INFO - Processing query 25/60: What are the recent patents in robotics for manufacturing?
+2025-04-28 09:59:45,046 - ERROR - Error processing query 25: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:45,046 - INFO - Processing query 26/60: Find patents related to 5G network technology
+2025-04-28 09:59:45,047 - ERROR - Error processing query 26: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:45,047 - INFO - Processing query 27/60: Search for innovations in food preservation
+2025-04-28 09:59:45,048 - ERROR - Error processing query 27: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:45,048 - INFO - Processing query 28/60: What are the latest developments in augmented reality?
+2025-04-28 09:59:45,048 - ERROR - Error processing query 28: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:45,048 - INFO - Processing query 29/60: Find patents about AI in education
+2025-04-28 09:59:45,049 - ERROR - Error processing query 29: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:45,049 - INFO - Processing query 30/60: Search for innovations in waste management
+2025-04-28 09:59:45,050 - ERROR - Error processing query 30: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:45,051 - INFO - Processing query 31/60: What are the recent patents in smart agriculture?
+2025-04-28 09:59:45,054 - ERROR - Error processing query 31: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:45,054 - INFO - Processing query 32/60: Find patents related to brain-computer interfaces
+2025-04-28 09:59:45,055 - ERROR - Error processing query 32: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:45,055 - INFO - Processing query 33/60: Search for innovations in sustainable transportation
+2025-04-28 09:59:45,055 - ERROR - Error processing query 33: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:45,056 - INFO - Processing query 34/60: What are the latest developments in nanotechnology?
+2025-04-28 09:59:45,057 - ERROR - Error processing query 34: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:45,057 - INFO - Processing query 35/60: Find patents about machine learning in healthcare
+2025-04-28 09:59:45,058 - ERROR - Error processing query 35: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:45,058 - INFO - Processing query 36/60: Search for innovations in renewable energy generation
+2025-04-28 09:59:45,060 - ERROR - Error processing query 36: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:45,060 - INFO - Processing query 37/60: What are the recent patents in smart city technology?
+2025-04-28 09:59:45,061 - ERROR - Error processing query 37: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:45,061 - INFO - Processing query 38/60: Find patents related to digital twin technology
+2025-04-28 09:59:45,062 - ERROR - Error processing query 38: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:45,062 - INFO - Processing query 39/60: Search for innovations in water conservation
+2025-04-28 09:59:45,063 - ERROR - Error processing query 39: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:45,063 - INFO - Processing query 40/60: What are the latest developments in biometric security?
+2025-04-28 09:59:45,064 - ERROR - Error processing query 40: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:45,064 - INFO - Processing query 41/60: Find patents about blockchain in supply chain
+2025-04-28 09:59:45,065 - ERROR - Error processing query 41: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:45,065 - INFO - Processing query 42/60: Search for innovations in sustainable fashion
+2025-04-28 09:59:45,065 - ERROR - Error processing query 42: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:45,066 - INFO - Processing query 43/60: What are the recent patents in space technology?
+2025-04-28 09:59:45,066 - ERROR - Error processing query 43: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:45,066 - INFO - Processing query 44/60: Find patents related to smart manufacturing
+2025-04-28 09:59:45,068 - ERROR - Error processing query 44: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:45,068 - INFO - Processing query 45/60: Search for innovations in air purification
+2025-04-28 09:59:45,068 - ERROR - Error processing query 45: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:45,069 - INFO - Processing query 46/60: What are the latest developments in quantum cryptography?
+2025-04-28 09:59:45,069 - ERROR - Error processing query 46: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:45,070 - INFO - Processing query 47/60: Find patents about AI in transportation
+2025-04-28 09:59:45,070 - ERROR - Error processing query 47: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:45,070 - INFO - Processing query 48/60: Search for innovations in sustainable agriculture
+2025-04-28 09:59:45,072 - ERROR - Error processing query 48: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:45,072 - INFO - Processing query 49/60: What are the recent patents in smart healthcare?
+2025-04-28 09:59:45,072 - ERROR - Error processing query 49: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:45,073 - INFO - Processing query 50/60: Find patents related to renewable energy distribution
+2025-04-28 09:59:45,074 - ERROR - Error processing query 50: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:45,074 - INFO - Processing query 51/60: Search for innovations in waste recycling
+2025-04-28 09:59:45,075 - ERROR - Error processing query 51: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:45,075 - INFO - Processing query 52/60: What are the latest developments in edge computing?
+2025-04-28 09:59:45,076 - ERROR - Error processing query 52: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:45,076 - INFO - Processing query 53/60: Find patents about machine learning in cybersecurity
+2025-04-28 09:59:45,077 - ERROR - Error processing query 53: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:45,077 - INFO - Processing query 54/60: Search for innovations in sustainable construction
+2025-04-28 09:59:45,080 - ERROR - Error processing query 54: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:45,080 - INFO - Processing query 55/60: What are the recent patents in smart energy management?
+2025-04-28 09:59:45,081 - ERROR - Error processing query 55: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:45,081 - INFO - Processing query 56/60: Find patents related to digital health technology
+2025-04-28 09:59:45,082 - ERROR - Error processing query 56: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:45,082 - INFO - Processing query 57/60: Search for innovations in sustainable packaging
+2025-04-28 09:59:45,083 - ERROR - Error processing query 57: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:45,083 - INFO - Processing query 58/60: What are the latest developments in quantum sensors?
+2025-04-28 09:59:45,084 - ERROR - Error processing query 58: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:45,084 - INFO - Processing query 59/60: Find patents about AI in manufacturing
+2025-04-28 09:59:45,085 - ERROR - Error processing query 59: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:45,085 - INFO - Processing query 60/60: Search for innovations in sustainable materials
+2025-04-28 09:59:45,085 - ERROR - Error processing query 60: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 09:59:45,086 - INFO - Saved all results to results/all_results.json
+2025-04-28 10:01:18,918 - INFO - Processing query 1/60: Find patents related to innovative solar panel technologies that discuss photovoltaic materials
+2025-04-28 10:01:19,175 - ERROR - Error processing query 1: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:01:19,175 - INFO - Processing query 2/60: Search for innovations in battery management systems for electric vehicles
+2025-04-28 10:01:19,176 - ERROR - Error processing query 2: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:01:19,176 - INFO - Processing query 3/60: Are there any patents on using AI for drug discovery?
+2025-04-28 10:01:19,176 - ERROR - Error processing query 3: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:01:19,176 - INFO - Processing query 4/60: What are the latest developments in wireless charging technology?
+2025-04-28 10:01:19,177 - ERROR - Error processing query 4: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:01:19,177 - INFO - Processing query 5/60: Find patents about blockchain applications in supply chain management
+2025-04-28 10:01:19,178 - ERROR - Error processing query 5: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:01:19,178 - INFO - Processing query 6/60: Search for innovations in water purification systems
+2025-04-28 10:01:19,179 - ERROR - Error processing query 6: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:01:19,179 - INFO - Processing query 7/60: What are the recent patents in quantum computing?
+2025-04-28 10:01:19,180 - ERROR - Error processing query 7: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:01:19,180 - INFO - Processing query 8/60: Find patents related to autonomous vehicle navigation systems
+2025-04-28 10:01:19,181 - ERROR - Error processing query 8: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:01:19,181 - INFO - Processing query 9/60: Search for innovations in renewable energy storage
+2025-04-28 10:01:19,182 - ERROR - Error processing query 9: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:01:19,182 - INFO - Processing query 10/60: What are the latest developments in medical imaging technology?
+2025-04-28 10:01:19,182 - ERROR - Error processing query 10: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:01:19,183 - INFO - Processing query 11/60: Find patents about smart home automation systems
+2025-04-28 10:01:19,183 - ERROR - Error processing query 11: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:01:19,183 - INFO - Processing query 12/60: Search for innovations in cybersecurity for IoT devices
+2025-04-28 10:01:19,184 - ERROR - Error processing query 12: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:01:19,184 - INFO - Processing query 13/60: What are the recent patents in gene editing technology?
+2025-04-28 10:01:19,185 - ERROR - Error processing query 13: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:01:19,185 - INFO - Processing query 14/60: Find patents related to 3D printing in healthcare
+2025-04-28 10:01:19,186 - ERROR - Error processing query 14: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:01:19,186 - INFO - Processing query 15/60: Search for innovations in sustainable packaging materials
+2025-04-28 10:01:19,186 - ERROR - Error processing query 15: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:01:19,187 - INFO - Processing query 16/60: What are the latest developments in virtual reality technology?
+2025-04-28 10:01:19,187 - ERROR - Error processing query 16: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:01:19,187 - INFO - Processing query 17/60: Find patents about machine learning in financial services
+2025-04-28 10:01:19,188 - ERROR - Error processing query 17: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:01:19,188 - INFO - Processing query 18/60: Search for innovations in carbon capture technology
+2025-04-28 10:01:19,189 - ERROR - Error processing query 18: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:01:19,189 - INFO - Processing query 19/60: What are the recent patents in wearable health monitoring?
+2025-04-28 10:01:19,190 - ERROR - Error processing query 19: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:01:19,190 - INFO - Processing query 20/60: Find patents related to smart grid technology
+2025-04-28 10:01:19,191 - ERROR - Error processing query 20: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:01:19,191 - INFO - Processing query 21/60: Search for innovations in biodegradable materials
+2025-04-28 10:01:19,191 - ERROR - Error processing query 21: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:01:19,191 - INFO - Processing query 22/60: What are the latest developments in drone technology?
+2025-04-28 10:01:19,192 - ERROR - Error processing query 22: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:01:19,192 - INFO - Processing query 23/60: Find patents about blockchain in healthcare
+2025-04-28 10:01:19,193 - ERROR - Error processing query 23: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:01:19,193 - INFO - Processing query 24/60: Search for innovations in energy-efficient buildings
+2025-04-28 10:01:19,194 - ERROR - Error processing query 24: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:01:19,194 - INFO - Processing query 25/60: What are the recent patents in robotics for manufacturing?
+2025-04-28 10:01:19,195 - ERROR - Error processing query 25: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:01:19,195 - INFO - Processing query 26/60: Find patents related to 5G network technology
+2025-04-28 10:01:19,196 - ERROR - Error processing query 26: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:01:19,196 - INFO - Processing query 27/60: Search for innovations in food preservation
+2025-04-28 10:01:19,196 - ERROR - Error processing query 27: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:01:19,196 - INFO - Processing query 28/60: What are the latest developments in augmented reality?
+2025-04-28 10:01:19,197 - ERROR - Error processing query 28: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:01:19,197 - INFO - Processing query 29/60: Find patents about AI in education
+2025-04-28 10:01:19,198 - ERROR - Error processing query 29: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:01:19,198 - INFO - Processing query 30/60: Search for innovations in waste management
+2025-04-28 10:01:19,199 - ERROR - Error processing query 30: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:01:19,199 - INFO - Processing query 31/60: What are the recent patents in smart agriculture?
+2025-04-28 10:01:19,200 - ERROR - Error processing query 31: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:01:19,200 - INFO - Processing query 32/60: Find patents related to brain-computer interfaces
+2025-04-28 10:01:19,200 - ERROR - Error processing query 32: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:01:19,201 - INFO - Processing query 33/60: Search for innovations in sustainable transportation
+2025-04-28 10:01:19,201 - ERROR - Error processing query 33: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:01:19,201 - INFO - Processing query 34/60: What are the latest developments in nanotechnology?
+2025-04-28 10:01:19,203 - ERROR - Error processing query 34: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:01:19,203 - INFO - Processing query 35/60: Find patents about machine learning in healthcare
+2025-04-28 10:01:19,204 - ERROR - Error processing query 35: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:01:19,204 - INFO - Processing query 36/60: Search for innovations in renewable energy generation
+2025-04-28 10:01:19,205 - ERROR - Error processing query 36: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:01:19,205 - INFO - Processing query 37/60: What are the recent patents in smart city technology?
+2025-04-28 10:01:19,205 - ERROR - Error processing query 37: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:01:19,206 - INFO - Processing query 38/60: Find patents related to digital twin technology
+2025-04-28 10:01:19,206 - ERROR - Error processing query 38: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:01:19,206 - INFO - Processing query 39/60: Search for innovations in water conservation
+2025-04-28 10:01:19,207 - ERROR - Error processing query 39: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:01:19,207 - INFO - Processing query 40/60: What are the latest developments in biometric security?
+2025-04-28 10:01:19,208 - ERROR - Error processing query 40: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:01:19,208 - INFO - Processing query 41/60: Find patents about blockchain in supply chain
+2025-04-28 10:01:19,209 - ERROR - Error processing query 41: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:01:19,209 - INFO - Processing query 42/60: Search for innovations in sustainable fashion
+2025-04-28 10:01:19,209 - ERROR - Error processing query 42: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:01:19,210 - INFO - Processing query 43/60: What are the recent patents in space technology?
+2025-04-28 10:01:19,211 - ERROR - Error processing query 43: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:01:19,211 - INFO - Processing query 44/60: Find patents related to smart manufacturing
+2025-04-28 10:01:19,211 - ERROR - Error processing query 44: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:01:19,211 - INFO - Processing query 45/60: Search for innovations in air purification
+2025-04-28 10:01:19,212 - ERROR - Error processing query 45: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:01:19,212 - INFO - Processing query 46/60: What are the latest developments in quantum cryptography?
+2025-04-28 10:01:19,213 - ERROR - Error processing query 46: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:01:19,213 - INFO - Processing query 47/60: Find patents about AI in transportation
+2025-04-28 10:01:19,214 - ERROR - Error processing query 47: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:01:19,214 - INFO - Processing query 48/60: Search for innovations in sustainable agriculture
+2025-04-28 10:01:19,215 - ERROR - Error processing query 48: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:01:19,215 - INFO - Processing query 49/60: What are the recent patents in smart healthcare?
+2025-04-28 10:01:19,216 - ERROR - Error processing query 49: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:01:19,216 - INFO - Processing query 50/60: Find patents related to renewable energy distribution
+2025-04-28 10:01:19,217 - ERROR - Error processing query 50: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:01:19,217 - INFO - Processing query 51/60: Search for innovations in waste recycling
+2025-04-28 10:01:19,217 - ERROR - Error processing query 51: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:01:19,218 - INFO - Processing query 52/60: What are the latest developments in edge computing?
+2025-04-28 10:01:19,218 - ERROR - Error processing query 52: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:01:19,218 - INFO - Processing query 53/60: Find patents about machine learning in cybersecurity
+2025-04-28 10:01:19,219 - ERROR - Error processing query 53: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:01:19,219 - INFO - Processing query 54/60: Search for innovations in sustainable construction
+2025-04-28 10:01:19,220 - ERROR - Error processing query 54: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:01:19,220 - INFO - Processing query 55/60: What are the recent patents in smart energy management?
+2025-04-28 10:01:19,221 - ERROR - Error processing query 55: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:01:19,221 - INFO - Processing query 56/60: Find patents related to digital health technology
+2025-04-28 10:01:19,221 - ERROR - Error processing query 56: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:01:19,221 - INFO - Processing query 57/60: Search for innovations in sustainable packaging
+2025-04-28 10:01:19,222 - ERROR - Error processing query 57: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:01:19,222 - INFO - Processing query 58/60: What are the latest developments in quantum sensors?
+2025-04-28 10:01:19,223 - ERROR - Error processing query 58: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:01:19,223 - INFO - Processing query 59/60: Find patents about AI in manufacturing
+2025-04-28 10:01:19,224 - ERROR - Error processing query 59: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:01:19,224 - INFO - Processing query 60/60: Search for innovations in sustainable materials
+2025-04-28 10:01:19,224 - ERROR - Error processing query 60: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:01:19,225 - INFO - Saved all results to results/all_results.json
+2025-04-28 10:09:54,688 - INFO - Processing query 1/60: Find patents related to innovative solar panel technologies that discuss photovoltaic materials
+2025-04-28 10:09:55,019 - ERROR - Error processing query 1: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:09:55,020 - INFO - Processing query 2/60: Search for innovations in battery management systems for electric vehicles
+2025-04-28 10:09:55,020 - ERROR - Error processing query 2: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:09:55,020 - INFO - Processing query 3/60: Are there any patents on using AI for drug discovery?
+2025-04-28 10:09:55,021 - ERROR - Error processing query 3: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:09:55,021 - INFO - Processing query 4/60: What are the latest developments in wireless charging technology?
+2025-04-28 10:09:55,022 - ERROR - Error processing query 4: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:09:55,022 - INFO - Processing query 5/60: Find patents about blockchain applications in supply chain management
+2025-04-28 10:09:55,023 - ERROR - Error processing query 5: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:09:55,023 - INFO - Processing query 6/60: Search for innovations in water purification systems
+2025-04-28 10:09:55,023 - ERROR - Error processing query 6: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:09:55,023 - INFO - Processing query 7/60: What are the recent patents in quantum computing?
+2025-04-28 10:09:55,024 - ERROR - Error processing query 7: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:09:55,024 - INFO - Processing query 8/60: Find patents related to autonomous vehicle navigation systems
+2025-04-28 10:09:55,025 - ERROR - Error processing query 8: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:09:55,025 - INFO - Processing query 9/60: Search for innovations in renewable energy storage
+2025-04-28 10:09:55,026 - ERROR - Error processing query 9: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:09:55,026 - INFO - Processing query 10/60: What are the latest developments in medical imaging technology?
+2025-04-28 10:09:55,027 - ERROR - Error processing query 10: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:09:55,027 - INFO - Processing query 11/60: Find patents about smart home automation systems
+2025-04-28 10:09:55,028 - ERROR - Error processing query 11: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:09:55,028 - INFO - Processing query 12/60: Search for innovations in cybersecurity for IoT devices
+2025-04-28 10:09:55,029 - ERROR - Error processing query 12: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:09:55,029 - INFO - Processing query 13/60: What are the recent patents in gene editing technology?
+2025-04-28 10:09:55,030 - ERROR - Error processing query 13: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:09:55,030 - INFO - Processing query 14/60: Find patents related to 3D printing in healthcare
+2025-04-28 10:09:55,031 - ERROR - Error processing query 14: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:09:55,031 - INFO - Processing query 15/60: Search for innovations in sustainable packaging materials
+2025-04-28 10:09:55,032 - ERROR - Error processing query 15: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:09:55,032 - INFO - Processing query 16/60: What are the latest developments in virtual reality technology?
+2025-04-28 10:09:55,033 - ERROR - Error processing query 16: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:09:55,033 - INFO - Processing query 17/60: Find patents about machine learning in financial services
+2025-04-28 10:09:55,034 - ERROR - Error processing query 17: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:09:55,034 - INFO - Processing query 18/60: Search for innovations in carbon capture technology
+2025-04-28 10:09:55,037 - ERROR - Error processing query 18: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:09:55,038 - INFO - Processing query 19/60: What are the recent patents in wearable health monitoring?
+2025-04-28 10:09:55,039 - ERROR - Error processing query 19: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:09:55,040 - INFO - Processing query 20/60: Find patents related to smart grid technology
+2025-04-28 10:09:55,041 - ERROR - Error processing query 20: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:09:55,041 - INFO - Processing query 21/60: Search for innovations in biodegradable materials
+2025-04-28 10:09:55,042 - ERROR - Error processing query 21: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:09:55,042 - INFO - Processing query 22/60: What are the latest developments in drone technology?
+2025-04-28 10:09:55,043 - ERROR - Error processing query 22: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:09:55,043 - INFO - Processing query 23/60: Find patents about blockchain in healthcare
+2025-04-28 10:09:55,044 - ERROR - Error processing query 23: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:09:55,044 - INFO - Processing query 24/60: Search for innovations in energy-efficient buildings
+2025-04-28 10:09:55,045 - ERROR - Error processing query 24: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:09:55,045 - INFO - Processing query 25/60: What are the recent patents in robotics for manufacturing?
+2025-04-28 10:09:55,046 - ERROR - Error processing query 25: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:09:55,046 - INFO - Processing query 26/60: Find patents related to 5G network technology
+2025-04-28 10:09:55,047 - ERROR - Error processing query 26: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:09:55,047 - INFO - Processing query 27/60: Search for innovations in food preservation
+2025-04-28 10:09:55,048 - ERROR - Error processing query 27: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:09:55,048 - INFO - Processing query 28/60: What are the latest developments in augmented reality?
+2025-04-28 10:09:55,049 - ERROR - Error processing query 28: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:09:55,049 - INFO - Processing query 29/60: Find patents about AI in education
+2025-04-28 10:09:55,050 - ERROR - Error processing query 29: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:09:55,051 - INFO - Processing query 30/60: Search for innovations in waste management
+2025-04-28 10:09:55,051 - ERROR - Error processing query 30: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:09:55,052 - INFO - Processing query 31/60: What are the recent patents in smart agriculture?
+2025-04-28 10:09:55,053 - ERROR - Error processing query 31: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:09:55,053 - INFO - Processing query 32/60: Find patents related to brain-computer interfaces
+2025-04-28 10:09:55,054 - ERROR - Error processing query 32: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:09:55,054 - INFO - Processing query 33/60: Search for innovations in sustainable transportation
+2025-04-28 10:09:55,057 - ERROR - Error processing query 33: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:09:55,057 - INFO - Processing query 34/60: What are the latest developments in nanotechnology?
+2025-04-28 10:09:55,059 - ERROR - Error processing query 34: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:09:55,059 - INFO - Processing query 35/60: Find patents about machine learning in healthcare
+2025-04-28 10:09:55,060 - ERROR - Error processing query 35: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:09:55,060 - INFO - Processing query 36/60: Search for innovations in renewable energy generation
+2025-04-28 10:09:55,061 - ERROR - Error processing query 36: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:09:55,061 - INFO - Processing query 37/60: What are the recent patents in smart city technology?
+2025-04-28 10:09:55,061 - ERROR - Error processing query 37: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:09:55,061 - INFO - Processing query 38/60: Find patents related to digital twin technology
+2025-04-28 10:09:55,062 - ERROR - Error processing query 38: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:09:55,062 - INFO - Processing query 39/60: Search for innovations in water conservation
+2025-04-28 10:09:55,063 - ERROR - Error processing query 39: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:09:55,064 - INFO - Processing query 40/60: What are the latest developments in biometric security?
+2025-04-28 10:09:55,066 - ERROR - Error processing query 40: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:09:55,066 - INFO - Processing query 41/60: Find patents about blockchain in supply chain
+2025-04-28 10:09:55,067 - ERROR - Error processing query 41: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:09:55,070 - INFO - Processing query 42/60: Search for innovations in sustainable fashion
+2025-04-28 10:09:55,072 - ERROR - Error processing query 42: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:09:55,072 - INFO - Processing query 43/60: What are the recent patents in space technology?
+2025-04-28 10:09:55,073 - ERROR - Error processing query 43: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:09:55,073 - INFO - Processing query 44/60: Find patents related to smart manufacturing
+2025-04-28 10:09:55,074 - ERROR - Error processing query 44: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:09:55,074 - INFO - Processing query 45/60: Search for innovations in air purification
+2025-04-28 10:09:55,075 - ERROR - Error processing query 45: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:09:55,075 - INFO - Processing query 46/60: What are the latest developments in quantum cryptography?
+2025-04-28 10:09:55,076 - ERROR - Error processing query 46: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:09:55,076 - INFO - Processing query 47/60: Find patents about AI in transportation
+2025-04-28 10:09:55,077 - ERROR - Error processing query 47: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:09:55,077 - INFO - Processing query 48/60: Search for innovations in sustainable agriculture
+2025-04-28 10:09:55,078 - ERROR - Error processing query 48: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:09:55,078 - INFO - Processing query 49/60: What are the recent patents in smart healthcare?
+2025-04-28 10:09:55,078 - ERROR - Error processing query 49: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:09:55,078 - INFO - Processing query 50/60: Find patents related to renewable energy distribution
+2025-04-28 10:09:55,079 - ERROR - Error processing query 50: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:09:55,079 - INFO - Processing query 51/60: Search for innovations in waste recycling
+2025-04-28 10:09:55,080 - ERROR - Error processing query 51: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:09:55,080 - INFO - Processing query 52/60: What are the latest developments in edge computing?
+2025-04-28 10:09:55,081 - ERROR - Error processing query 52: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:09:55,081 - INFO - Processing query 53/60: Find patents about machine learning in cybersecurity
+2025-04-28 10:09:55,081 - ERROR - Error processing query 53: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:09:55,081 - INFO - Processing query 54/60: Search for innovations in sustainable construction
+2025-04-28 10:09:55,082 - ERROR - Error processing query 54: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:09:55,082 - INFO - Processing query 55/60: What are the recent patents in smart energy management?
+2025-04-28 10:09:55,083 - ERROR - Error processing query 55: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:09:55,083 - INFO - Processing query 56/60: Find patents related to digital health technology
+2025-04-28 10:09:55,084 - ERROR - Error processing query 56: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:09:55,084 - INFO - Processing query 57/60: Search for innovations in sustainable packaging
+2025-04-28 10:09:55,084 - ERROR - Error processing query 57: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:09:55,084 - INFO - Processing query 58/60: What are the latest developments in quantum sensors?
+2025-04-28 10:09:55,085 - ERROR - Error processing query 58: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:09:55,085 - INFO - Processing query 59/60: Find patents about AI in manufacturing
+2025-04-28 10:09:55,086 - ERROR - Error processing query 59: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:09:55,086 - INFO - Processing query 60/60: Search for innovations in sustainable materials
+2025-04-28 10:09:55,087 - ERROR - Error processing query 60: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:09:55,087 - INFO - Saved all results to results/all_results.json
+2025-04-28 10:12:07,359 - INFO - Processing query 1/60: Find patents related to innovative solar panel technologies that discuss photovoltaic materials
+2025-04-28 10:12:08,474 - ERROR - Error processing query 1: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:08,475 - INFO - Processing query 2/60: Search for innovations in battery management systems for electric vehicles
+2025-04-28 10:12:08,476 - ERROR - Error processing query 2: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:08,476 - INFO - Processing query 3/60: Are there any patents on using AI for drug discovery?
+2025-04-28 10:12:08,477 - ERROR - Error processing query 3: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:08,477 - INFO - Processing query 4/60: What are the latest developments in wireless charging technology?
+2025-04-28 10:12:08,478 - ERROR - Error processing query 4: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:08,478 - INFO - Processing query 5/60: Find patents about blockchain applications in supply chain management
+2025-04-28 10:12:08,479 - ERROR - Error processing query 5: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:08,479 - INFO - Processing query 6/60: Search for innovations in water purification systems
+2025-04-28 10:12:08,480 - ERROR - Error processing query 6: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:08,480 - INFO - Processing query 7/60: What are the recent patents in quantum computing?
+2025-04-28 10:12:08,481 - ERROR - Error processing query 7: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:08,481 - INFO - Processing query 8/60: Find patents related to autonomous vehicle navigation systems
+2025-04-28 10:12:08,481 - ERROR - Error processing query 8: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:08,481 - INFO - Processing query 9/60: Search for innovations in renewable energy storage
+2025-04-28 10:12:08,482 - ERROR - Error processing query 9: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:08,482 - INFO - Processing query 10/60: What are the latest developments in medical imaging technology?
+2025-04-28 10:12:08,483 - ERROR - Error processing query 10: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:08,483 - INFO - Processing query 11/60: Find patents about smart home automation systems
+2025-04-28 10:12:08,483 - ERROR - Error processing query 11: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:08,483 - INFO - Processing query 12/60: Search for innovations in cybersecurity for IoT devices
+2025-04-28 10:12:08,484 - ERROR - Error processing query 12: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:08,484 - INFO - Processing query 13/60: What are the recent patents in gene editing technology?
+2025-04-28 10:12:08,484 - ERROR - Error processing query 13: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:08,484 - INFO - Processing query 14/60: Find patents related to 3D printing in healthcare
+2025-04-28 10:12:08,485 - ERROR - Error processing query 14: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:08,485 - INFO - Processing query 15/60: Search for innovations in sustainable packaging materials
+2025-04-28 10:12:08,486 - ERROR - Error processing query 15: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:08,486 - INFO - Processing query 16/60: What are the latest developments in virtual reality technology?
+2025-04-28 10:12:08,487 - ERROR - Error processing query 16: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:08,487 - INFO - Processing query 17/60: Find patents about machine learning in financial services
+2025-04-28 10:12:08,488 - ERROR - Error processing query 17: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:08,488 - INFO - Processing query 18/60: Search for innovations in carbon capture technology
+2025-04-28 10:12:08,489 - ERROR - Error processing query 18: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:08,489 - INFO - Processing query 19/60: What are the recent patents in wearable health monitoring?
+2025-04-28 10:12:08,492 - ERROR - Error processing query 19: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:08,492 - INFO - Processing query 20/60: Find patents related to smart grid technology
+2025-04-28 10:12:08,493 - ERROR - Error processing query 20: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:08,493 - INFO - Processing query 21/60: Search for innovations in biodegradable materials
+2025-04-28 10:12:08,494 - ERROR - Error processing query 21: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:08,494 - INFO - Processing query 22/60: What are the latest developments in drone technology?
+2025-04-28 10:12:08,495 - ERROR - Error processing query 22: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:08,495 - INFO - Processing query 23/60: Find patents about blockchain in healthcare
+2025-04-28 10:12:08,495 - ERROR - Error processing query 23: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:08,496 - INFO - Processing query 24/60: Search for innovations in energy-efficient buildings
+2025-04-28 10:12:08,497 - ERROR - Error processing query 24: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:08,497 - INFO - Processing query 25/60: What are the recent patents in robotics for manufacturing?
+2025-04-28 10:12:08,497 - ERROR - Error processing query 25: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:08,498 - INFO - Processing query 26/60: Find patents related to 5G network technology
+2025-04-28 10:12:08,498 - ERROR - Error processing query 26: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:08,499 - INFO - Processing query 27/60: Search for innovations in food preservation
+2025-04-28 10:12:08,499 - ERROR - Error processing query 27: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:08,500 - INFO - Processing query 28/60: What are the latest developments in augmented reality?
+2025-04-28 10:12:08,500 - ERROR - Error processing query 28: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:08,500 - INFO - Processing query 29/60: Find patents about AI in education
+2025-04-28 10:12:08,501 - ERROR - Error processing query 29: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:08,501 - INFO - Processing query 30/60: Search for innovations in waste management
+2025-04-28 10:12:08,502 - ERROR - Error processing query 30: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:08,502 - INFO - Processing query 31/60: What are the recent patents in smart agriculture?
+2025-04-28 10:12:08,503 - ERROR - Error processing query 31: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:08,503 - INFO - Processing query 32/60: Find patents related to brain-computer interfaces
+2025-04-28 10:12:08,503 - ERROR - Error processing query 32: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:08,503 - INFO - Processing query 33/60: Search for innovations in sustainable transportation
+2025-04-28 10:12:08,504 - ERROR - Error processing query 33: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:08,504 - INFO - Processing query 34/60: What are the latest developments in nanotechnology?
+2025-04-28 10:12:08,505 - ERROR - Error processing query 34: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:08,505 - INFO - Processing query 35/60: Find patents about machine learning in healthcare
+2025-04-28 10:12:08,506 - ERROR - Error processing query 35: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:08,506 - INFO - Processing query 36/60: Search for innovations in renewable energy generation
+2025-04-28 10:12:08,507 - ERROR - Error processing query 36: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:08,507 - INFO - Processing query 37/60: What are the recent patents in smart city technology?
+2025-04-28 10:12:08,508 - ERROR - Error processing query 37: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:08,509 - INFO - Processing query 38/60: Find patents related to digital twin technology
+2025-04-28 10:12:08,510 - ERROR - Error processing query 38: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:08,510 - INFO - Processing query 39/60: Search for innovations in water conservation
+2025-04-28 10:12:08,511 - ERROR - Error processing query 39: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:08,511 - INFO - Processing query 40/60: What are the latest developments in biometric security?
+2025-04-28 10:12:08,512 - ERROR - Error processing query 40: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:08,512 - INFO - Processing query 41/60: Find patents about blockchain in supply chain
+2025-04-28 10:12:08,513 - ERROR - Error processing query 41: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:08,513 - INFO - Processing query 42/60: Search for innovations in sustainable fashion
+2025-04-28 10:12:08,514 - ERROR - Error processing query 42: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:08,514 - INFO - Processing query 43/60: What are the recent patents in space technology?
+2025-04-28 10:12:08,514 - ERROR - Error processing query 43: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:08,514 - INFO - Processing query 44/60: Find patents related to smart manufacturing
+2025-04-28 10:12:08,515 - ERROR - Error processing query 44: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:08,515 - INFO - Processing query 45/60: Search for innovations in air purification
+2025-04-28 10:12:08,515 - ERROR - Error processing query 45: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:08,515 - INFO - Processing query 46/60: What are the latest developments in quantum cryptography?
+2025-04-28 10:12:08,516 - ERROR - Error processing query 46: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:08,516 - INFO - Processing query 47/60: Find patents about AI in transportation
+2025-04-28 10:12:08,517 - ERROR - Error processing query 47: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:08,517 - INFO - Processing query 48/60: Search for innovations in sustainable agriculture
+2025-04-28 10:12:08,518 - ERROR - Error processing query 48: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:08,518 - INFO - Processing query 49/60: What are the recent patents in smart healthcare?
+2025-04-28 10:12:08,518 - ERROR - Error processing query 49: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:08,519 - INFO - Processing query 50/60: Find patents related to renewable energy distribution
+2025-04-28 10:12:08,519 - ERROR - Error processing query 50: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:08,519 - INFO - Processing query 51/60: Search for innovations in waste recycling
+2025-04-28 10:12:08,521 - ERROR - Error processing query 51: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:08,521 - INFO - Processing query 52/60: What are the latest developments in edge computing?
+2025-04-28 10:12:08,522 - ERROR - Error processing query 52: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:08,522 - INFO - Processing query 53/60: Find patents about machine learning in cybersecurity
+2025-04-28 10:12:08,523 - ERROR - Error processing query 53: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:08,524 - INFO - Processing query 54/60: Search for innovations in sustainable construction
+2025-04-28 10:12:08,524 - ERROR - Error processing query 54: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:08,524 - INFO - Processing query 55/60: What are the recent patents in smart energy management?
+2025-04-28 10:12:08,525 - ERROR - Error processing query 55: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:08,525 - INFO - Processing query 56/60: Find patents related to digital health technology
+2025-04-28 10:12:08,526 - ERROR - Error processing query 56: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:08,526 - INFO - Processing query 57/60: Search for innovations in sustainable packaging
+2025-04-28 10:12:08,526 - ERROR - Error processing query 57: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:08,527 - INFO - Processing query 58/60: What are the latest developments in quantum sensors?
+2025-04-28 10:12:08,527 - ERROR - Error processing query 58: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:08,527 - INFO - Processing query 59/60: Find patents about AI in manufacturing
+2025-04-28 10:12:08,528 - ERROR - Error processing query 59: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:08,528 - INFO - Processing query 60/60: Search for innovations in sustainable materials
+2025-04-28 10:12:08,529 - ERROR - Error processing query 60: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:08,529 - INFO - Saved all results to results/all_results.json
+2025-04-28 10:12:33,228 - INFO - Processing query 1/60: Find patents related to innovative solar panel technologies that discuss photovoltaic materials
+2025-04-28 10:12:33,451 - ERROR - Error processing query 1: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:33,451 - INFO - Processing query 2/60: Search for innovations in battery management systems for electric vehicles
+2025-04-28 10:12:33,452 - ERROR - Error processing query 2: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:33,452 - INFO - Processing query 3/60: Are there any patents on using AI for drug discovery?
+2025-04-28 10:12:33,452 - ERROR - Error processing query 3: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:33,452 - INFO - Processing query 4/60: What are the latest developments in wireless charging technology?
+2025-04-28 10:12:33,453 - ERROR - Error processing query 4: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:33,453 - INFO - Processing query 5/60: Find patents about blockchain applications in supply chain management
+2025-04-28 10:12:33,453 - ERROR - Error processing query 5: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:33,453 - INFO - Processing query 6/60: Search for innovations in water purification systems
+2025-04-28 10:12:33,454 - ERROR - Error processing query 6: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:33,454 - INFO - Processing query 7/60: What are the recent patents in quantum computing?
+2025-04-28 10:12:33,454 - ERROR - Error processing query 7: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:33,454 - INFO - Processing query 8/60: Find patents related to autonomous vehicle navigation systems
+2025-04-28 10:12:33,455 - ERROR - Error processing query 8: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:33,455 - INFO - Processing query 9/60: Search for innovations in renewable energy storage
+2025-04-28 10:12:33,455 - ERROR - Error processing query 9: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:33,456 - INFO - Processing query 10/60: What are the latest developments in medical imaging technology?
+2025-04-28 10:12:33,456 - ERROR - Error processing query 10: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:33,456 - INFO - Processing query 11/60: Find patents about smart home automation systems
+2025-04-28 10:12:33,457 - ERROR - Error processing query 11: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:33,457 - INFO - Processing query 12/60: Search for innovations in cybersecurity for IoT devices
+2025-04-28 10:12:33,457 - ERROR - Error processing query 12: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:33,458 - INFO - Processing query 13/60: What are the recent patents in gene editing technology?
+2025-04-28 10:12:33,458 - ERROR - Error processing query 13: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:33,458 - INFO - Processing query 14/60: Find patents related to 3D printing in healthcare
+2025-04-28 10:12:33,459 - ERROR - Error processing query 14: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:33,459 - INFO - Processing query 15/60: Search for innovations in sustainable packaging materials
+2025-04-28 10:12:33,460 - ERROR - Error processing query 15: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:33,460 - INFO - Processing query 16/60: What are the latest developments in virtual reality technology?
+2025-04-28 10:12:33,460 - ERROR - Error processing query 16: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:33,460 - INFO - Processing query 17/60: Find patents about machine learning in financial services
+2025-04-28 10:12:33,460 - ERROR - Error processing query 17: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:33,460 - INFO - Processing query 18/60: Search for innovations in carbon capture technology
+2025-04-28 10:12:33,461 - ERROR - Error processing query 18: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:33,461 - INFO - Processing query 19/60: What are the recent patents in wearable health monitoring?
+2025-04-28 10:12:33,461 - ERROR - Error processing query 19: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:33,461 - INFO - Processing query 20/60: Find patents related to smart grid technology
+2025-04-28 10:12:33,462 - ERROR - Error processing query 20: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:33,462 - INFO - Processing query 21/60: Search for innovations in biodegradable materials
+2025-04-28 10:12:33,462 - ERROR - Error processing query 21: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:33,462 - INFO - Processing query 22/60: What are the latest developments in drone technology?
+2025-04-28 10:12:33,463 - ERROR - Error processing query 22: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:33,463 - INFO - Processing query 23/60: Find patents about blockchain in healthcare
+2025-04-28 10:12:33,464 - ERROR - Error processing query 23: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:33,464 - INFO - Processing query 24/60: Search for innovations in energy-efficient buildings
+2025-04-28 10:12:33,464 - ERROR - Error processing query 24: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:33,464 - INFO - Processing query 25/60: What are the recent patents in robotics for manufacturing?
+2025-04-28 10:12:33,464 - ERROR - Error processing query 25: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:33,464 - INFO - Processing query 26/60: Find patents related to 5G network technology
+2025-04-28 10:12:33,465 - ERROR - Error processing query 26: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:33,465 - INFO - Processing query 27/60: Search for innovations in food preservation
+2025-04-28 10:12:33,465 - ERROR - Error processing query 27: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:33,465 - INFO - Processing query 28/60: What are the latest developments in augmented reality?
+2025-04-28 10:12:33,466 - ERROR - Error processing query 28: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:33,466 - INFO - Processing query 29/60: Find patents about AI in education
+2025-04-28 10:12:33,466 - ERROR - Error processing query 29: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:33,466 - INFO - Processing query 30/60: Search for innovations in waste management
+2025-04-28 10:12:33,466 - ERROR - Error processing query 30: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:33,467 - INFO - Processing query 31/60: What are the recent patents in smart agriculture?
+2025-04-28 10:12:33,467 - ERROR - Error processing query 31: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:33,467 - INFO - Processing query 32/60: Find patents related to brain-computer interfaces
+2025-04-28 10:12:33,468 - ERROR - Error processing query 32: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:33,468 - INFO - Processing query 33/60: Search for innovations in sustainable transportation
+2025-04-28 10:12:33,468 - ERROR - Error processing query 33: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:33,468 - INFO - Processing query 34/60: What are the latest developments in nanotechnology?
+2025-04-28 10:12:33,469 - ERROR - Error processing query 34: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:33,469 - INFO - Processing query 35/60: Find patents about machine learning in healthcare
+2025-04-28 10:12:33,469 - ERROR - Error processing query 35: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:33,469 - INFO - Processing query 36/60: Search for innovations in renewable energy generation
+2025-04-28 10:12:33,469 - ERROR - Error processing query 36: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:33,469 - INFO - Processing query 37/60: What are the recent patents in smart city technology?
+2025-04-28 10:12:33,470 - ERROR - Error processing query 37: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:33,470 - INFO - Processing query 38/60: Find patents related to digital twin technology
+2025-04-28 10:12:33,470 - ERROR - Error processing query 38: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:33,470 - INFO - Processing query 39/60: Search for innovations in water conservation
+2025-04-28 10:12:33,471 - ERROR - Error processing query 39: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:33,471 - INFO - Processing query 40/60: What are the latest developments in biometric security?
+2025-04-28 10:12:33,471 - ERROR - Error processing query 40: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:33,471 - INFO - Processing query 41/60: Find patents about blockchain in supply chain
+2025-04-28 10:12:33,471 - ERROR - Error processing query 41: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:33,472 - INFO - Processing query 42/60: Search for innovations in sustainable fashion
+2025-04-28 10:12:33,472 - ERROR - Error processing query 42: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:33,472 - INFO - Processing query 43/60: What are the recent patents in space technology?
+2025-04-28 10:12:33,473 - ERROR - Error processing query 43: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:33,473 - INFO - Processing query 44/60: Find patents related to smart manufacturing
+2025-04-28 10:12:33,474 - ERROR - Error processing query 44: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:33,474 - INFO - Processing query 45/60: Search for innovations in air purification
+2025-04-28 10:12:33,475 - ERROR - Error processing query 45: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:33,475 - INFO - Processing query 46/60: What are the latest developments in quantum cryptography?
+2025-04-28 10:12:33,475 - ERROR - Error processing query 46: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:33,475 - INFO - Processing query 47/60: Find patents about AI in transportation
+2025-04-28 10:12:33,476 - ERROR - Error processing query 47: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:33,476 - INFO - Processing query 48/60: Search for innovations in sustainable agriculture
+2025-04-28 10:12:33,477 - ERROR - Error processing query 48: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:33,477 - INFO - Processing query 49/60: What are the recent patents in smart healthcare?
+2025-04-28 10:12:33,477 - ERROR - Error processing query 49: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:33,478 - INFO - Processing query 50/60: Find patents related to renewable energy distribution
+2025-04-28 10:12:33,478 - ERROR - Error processing query 50: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:33,478 - INFO - Processing query 51/60: Search for innovations in waste recycling
+2025-04-28 10:12:33,479 - ERROR - Error processing query 51: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:33,479 - INFO - Processing query 52/60: What are the latest developments in edge computing?
+2025-04-28 10:12:33,479 - ERROR - Error processing query 52: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:33,480 - INFO - Processing query 53/60: Find patents about machine learning in cybersecurity
+2025-04-28 10:12:33,480 - ERROR - Error processing query 53: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:33,480 - INFO - Processing query 54/60: Search for innovations in sustainable construction
+2025-04-28 10:12:33,481 - ERROR - Error processing query 54: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:33,481 - INFO - Processing query 55/60: What are the recent patents in smart energy management?
+2025-04-28 10:12:33,481 - ERROR - Error processing query 55: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:33,481 - INFO - Processing query 56/60: Find patents related to digital health technology
+2025-04-28 10:12:33,482 - ERROR - Error processing query 56: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:33,482 - INFO - Processing query 57/60: Search for innovations in sustainable packaging
+2025-04-28 10:12:33,483 - ERROR - Error processing query 57: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:33,483 - INFO - Processing query 58/60: What are the latest developments in quantum sensors?
+2025-04-28 10:12:33,483 - ERROR - Error processing query 58: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:33,483 - INFO - Processing query 59/60: Find patents about AI in manufacturing
+2025-04-28 10:12:33,484 - ERROR - Error processing query 59: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:33,484 - INFO - Processing query 60/60: Search for innovations in sustainable materials
+2025-04-28 10:12:33,485 - ERROR - Error processing query 60: Error in retrieval module setup: Could not import sentence_transformers python package. Please install it with `pip install sentence-transformers`.
+2025-04-28 10:12:33,485 - INFO - Saved all results to results/all_results.json
+2025-04-28 10:13:27,401 - INFO - Processing query 1/60: Find patents related to innovative solar panel technologies that discuss photovoltaic materials
+2025-04-28 10:13:27,502 - INFO - Use pytorch device_name: mps
+2025-04-28 10:13:27,502 - INFO - Load pretrained SentenceTransformer: all-mpnet-base-v2
+2025-04-28 10:13:29,553 - INFO - Loading faiss.
+2025-04-28 10:13:29,750 - INFO - Successfully loaded faiss.
+2025-04-28 10:13:29,755 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-04-28 10:14:44,574 - INFO - Saved result for query 1 to results/query_001.json
+2025-04-28 10:14:44,575 - INFO - Processing query 2/60: Search for innovations in battery management systems for electric vehicles
+2025-04-28 10:15:21,933 - INFO - Saved result for query 2 to results/query_002.json
+2025-04-28 10:15:21,935 - INFO - Processing query 3/60: Are there any patents on using AI for drug discovery?
+2025-04-28 10:16:01,827 - INFO - Saved result for query 3 to results/query_003.json
+2025-04-28 10:16:01,827 - INFO - Processing query 4/60: What are the latest developments in wireless charging technology?
+2025-04-28 10:16:40,424 - INFO - Saved result for query 4 to results/query_004.json
+2025-04-28 10:16:40,425 - INFO - Processing query 5/60: Find patents about blockchain applications in supply chain management
+2025-04-28 10:17:14,032 - INFO - Saved result for query 5 to results/query_005.json
+2025-04-28 10:17:14,038 - INFO - Processing query 6/60: Search for innovations in water purification systems
+2025-04-28 10:17:50,607 - INFO - Saved result for query 6 to results/query_006.json
+2025-04-28 10:17:50,609 - INFO - Processing query 7/60: What are the recent patents in quantum computing?
+2025-04-28 10:18:29,546 - INFO - Saved result for query 7 to results/query_007.json
+2025-04-28 10:18:29,547 - INFO - Processing query 8/60: Find patents related to autonomous vehicle navigation systems
+2025-04-28 10:19:04,481 - INFO - Saved result for query 8 to results/query_008.json
+2025-04-28 10:19:04,484 - INFO - Processing query 9/60: Search for innovations in renewable energy storage
+2025-04-28 10:19:38,902 - INFO - Saved result for query 9 to results/query_009.json
+2025-04-28 10:19:38,903 - INFO - Processing query 10/60: What are the latest developments in medical imaging technology?
+2025-04-28 10:20:11,938 - INFO - Saved result for query 10 to results/query_010.json
+2025-04-28 10:20:11,939 - INFO - Processing query 11/60: Find patents about smart home automation systems
+2025-04-28 10:20:47,224 - INFO - Saved result for query 11 to results/query_011.json
+2025-04-28 10:20:47,224 - INFO - Processing query 12/60: Search for innovations in cybersecurity for IoT devices
+2025-04-28 10:21:24,436 - INFO - Saved result for query 12 to results/query_012.json
+2025-04-28 10:21:24,438 - INFO - Processing query 13/60: What are the recent patents in gene editing technology?
+2025-04-28 10:21:58,595 - INFO - Saved result for query 13 to results/query_013.json
+2025-04-28 10:21:58,597 - INFO - Processing query 14/60: Find patents related to 3D printing in healthcare
+2025-04-28 10:22:33,466 - INFO - Saved result for query 14 to results/query_014.json
+2025-04-28 10:22:33,467 - INFO - Processing query 15/60: Search for innovations in sustainable packaging materials
+2025-04-28 10:23:08,062 - INFO - Saved result for query 15 to results/query_015.json
+2025-04-28 10:23:08,062 - INFO - Processing query 16/60: What are the latest developments in virtual reality technology?
+2025-04-28 10:23:46,473 - INFO - Saved result for query 16 to results/query_016.json
+2025-04-28 10:23:46,474 - INFO - Processing query 17/60: Find patents about machine learning in financial services
+2025-04-28 10:24:21,157 - INFO - Saved result for query 17 to results/query_017.json
+2025-04-28 10:24:21,158 - INFO - Processing query 18/60: Search for innovations in carbon capture technology
+2025-04-28 10:24:55,054 - INFO - Saved result for query 18 to results/query_018.json
+2025-04-28 10:24:55,056 - INFO - Processing query 19/60: What are the recent patents in wearable health monitoring?
+2025-04-28 10:25:29,997 - INFO - Saved result for query 19 to results/query_019.json
+2025-04-28 10:25:29,999 - INFO - Processing query 20/60: Find patents related to smart grid technology
+2025-04-28 10:26:03,637 - INFO - Saved result for query 20 to results/query_020.json
+2025-04-28 10:26:03,638 - INFO - Processing query 21/60: Search for innovations in biodegradable materials
+2025-04-28 10:26:37,964 - INFO - Saved result for query 21 to results/query_021.json
+2025-04-28 10:26:37,965 - INFO - Processing query 22/60: What are the latest developments in drone technology?
+2025-04-28 10:27:11,044 - INFO - Saved result for query 22 to results/query_022.json
+2025-04-28 10:27:11,047 - INFO - Processing query 23/60: Find patents about blockchain in healthcare
+2025-04-28 10:27:45,079 - INFO - Saved result for query 23 to results/query_023.json
+2025-04-28 10:27:45,079 - INFO - Processing query 24/60: Search for innovations in energy-efficient buildings
+2025-04-28 10:28:19,305 - INFO - Saved result for query 24 to results/query_024.json
+2025-04-28 10:28:19,305 - INFO - Processing query 25/60: What are the recent patents in robotics for manufacturing?
+2025-04-28 10:28:53,441 - INFO - Saved result for query 25 to results/query_025.json
+2025-04-28 10:28:53,442 - INFO - Processing query 26/60: Find patents related to 5G network technology
+2025-04-28 10:29:27,288 - INFO - Saved result for query 26 to results/query_026.json
+2025-04-28 10:29:27,289 - INFO - Processing query 27/60: Search for innovations in food preservation
+2025-04-28 10:30:04,048 - INFO - Saved result for query 27 to results/query_027.json
+2025-04-28 10:30:04,049 - INFO - Processing query 28/60: What are the latest developments in augmented reality?
+2025-04-28 10:30:37,575 - INFO - Saved result for query 28 to results/query_028.json
+2025-04-28 10:30:37,576 - INFO - Processing query 29/60: Find patents about AI in education
+2025-04-28 10:31:11,423 - INFO - Saved result for query 29 to results/query_029.json
+2025-04-28 10:31:11,423 - INFO - Processing query 30/60: Search for innovations in waste management
+2025-04-28 10:31:46,734 - INFO - Saved result for query 30 to results/query_030.json
+2025-04-28 10:31:46,735 - INFO - Processing query 31/60: What are the recent patents in smart agriculture?
+2025-04-28 10:32:22,717 - INFO - Saved result for query 31 to results/query_031.json
+2025-04-28 10:32:22,718 - INFO - Processing query 32/60: Find patents related to brain-computer interfaces
+2025-04-28 10:32:56,714 - INFO - Saved result for query 32 to results/query_032.json
+2025-04-28 10:32:56,715 - INFO - Processing query 33/60: Search for innovations in sustainable transportation
+2025-04-28 10:33:30,694 - INFO - Saved result for query 33 to results/query_033.json
+2025-04-28 10:33:30,697 - INFO - Processing query 34/60: What are the latest developments in nanotechnology?
+2025-04-28 10:34:03,140 - INFO - Saved result for query 34 to results/query_034.json
+2025-04-28 10:34:03,144 - INFO - Processing query 35/60: Find patents about machine learning in healthcare
+2025-04-28 10:34:36,840 - INFO - Saved result for query 35 to results/query_035.json
+2025-04-28 10:34:36,841 - INFO - Processing query 36/60: Search for innovations in renewable energy generation
+2025-04-28 10:35:09,198 - INFO - Saved result for query 36 to results/query_036.json
+2025-04-28 10:35:09,200 - INFO - Processing query 37/60: What are the recent patents in smart city technology?
+2025-04-28 10:35:46,159 - INFO - Saved result for query 37 to results/query_037.json
+2025-04-28 10:35:46,161 - INFO - Processing query 38/60: Find patents related to digital twin technology
+2025-04-28 10:36:24,999 - INFO - Saved result for query 38 to results/query_038.json
+2025-04-28 10:36:25,001 - INFO - Processing query 39/60: Search for innovations in water conservation
+2025-04-28 10:37:06,765 - INFO - Saved result for query 39 to results/query_039.json
+2025-04-28 10:37:06,772 - INFO - Processing query 40/60: What are the latest developments in biometric security?
+2025-04-28 10:37:49,701 - INFO - Saved result for query 40 to results/query_040.json
+2025-04-28 10:37:49,703 - INFO - Processing query 41/60: Find patents about blockchain in supply chain
+2025-04-28 10:38:28,315 - INFO - Saved result for query 41 to results/query_041.json
+2025-04-28 10:38:28,316 - INFO - Processing query 42/60: Search for innovations in sustainable fashion
+2025-04-28 10:39:08,478 - INFO - Saved result for query 42 to results/query_042.json
+2025-04-28 10:39:08,479 - INFO - Processing query 43/60: What are the recent patents in space technology?
+2025-04-28 10:39:45,612 - INFO - Saved result for query 43 to results/query_043.json
+2025-04-28 10:39:45,613 - INFO - Processing query 44/60: Find patents related to smart manufacturing
+2025-04-28 10:40:26,893 - INFO - Saved result for query 44 to results/query_044.json
+2025-04-28 10:40:26,945 - INFO - Processing query 45/60: Search for innovations in air purification
+2025-04-28 10:41:07,869 - INFO - Saved result for query 45 to results/query_045.json
+2025-04-28 10:41:07,875 - INFO - Processing query 46/60: What are the latest developments in quantum cryptography?
+2025-04-28 10:41:51,561 - INFO - Saved result for query 46 to results/query_046.json
+2025-04-28 10:41:51,563 - INFO - Processing query 47/60: Find patents about AI in transportation
+2025-04-28 10:42:30,864 - INFO - Saved result for query 47 to results/query_047.json
+2025-04-28 10:42:30,867 - INFO - Processing query 48/60: Search for innovations in sustainable agriculture
+2025-04-28 10:43:07,219 - INFO - Saved result for query 48 to results/query_048.json
+2025-04-28 10:43:07,220 - INFO - Processing query 49/60: What are the recent patents in smart healthcare?
+2025-04-28 10:43:44,911 - INFO - Saved result for query 49 to results/query_049.json
+2025-04-28 10:43:44,912 - INFO - Processing query 50/60: Find patents related to renewable energy distribution
+2025-04-28 10:44:22,467 - INFO - Saved result for query 50 to results/query_050.json
+2025-04-28 10:44:22,468 - INFO - Processing query 51/60: Search for innovations in waste recycling
+2025-04-28 10:45:01,597 - INFO - Saved result for query 51 to results/query_051.json
+2025-04-28 10:45:01,598 - INFO - Processing query 52/60: What are the latest developments in edge computing?
+2025-04-28 10:45:40,744 - INFO - Saved result for query 52 to results/query_052.json
+2025-04-28 10:45:40,745 - INFO - Processing query 53/60: Find patents about machine learning in cybersecurity
+2025-04-28 10:46:20,063 - INFO - Saved result for query 53 to results/query_053.json
+2025-04-28 10:46:20,105 - INFO - Processing query 54/60: Search for innovations in sustainable construction
+2025-04-28 10:46:55,993 - INFO - Saved result for query 54 to results/query_054.json
+2025-04-28 10:46:55,993 - INFO - Processing query 55/60: What are the recent patents in smart energy management?
+2025-04-28 10:47:32,285 - INFO - Saved result for query 55 to results/query_055.json
+2025-04-28 10:47:32,287 - INFO - Processing query 56/60: Find patents related to digital health technology
+2025-04-28 10:48:09,280 - INFO - Saved result for query 56 to results/query_056.json
+2025-04-28 10:48:09,280 - INFO - Processing query 57/60: Search for innovations in sustainable packaging
+2025-04-28 10:48:48,209 - INFO - Saved result for query 57 to results/query_057.json
+2025-04-28 10:48:48,212 - INFO - Processing query 58/60: What are the latest developments in quantum sensors?
+2025-04-28 10:49:23,897 - INFO - Saved result for query 58 to results/query_058.json
+2025-04-28 10:49:23,898 - INFO - Processing query 59/60: Find patents about AI in manufacturing
+2025-04-28 10:49:59,288 - INFO - Saved result for query 59 to results/query_059.json
+2025-04-28 10:49:59,289 - INFO - Processing query 60/60: Search for innovations in sustainable materials
+2025-04-28 10:50:36,963 - INFO - Saved result for query 60 to results/query_060.json
+2025-04-28 10:50:37,002 - INFO - Saved all results to results/all_results.json

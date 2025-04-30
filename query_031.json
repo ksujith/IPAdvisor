@@ -1,0 +1,48 @@
+{
+  "query_id": 31,
+  "query": "What are the recent patents in smart agriculture?",
+  "timestamp": "2025-04-28T10:32:22.712329",
+  "answer": "The recent patents in smart agriculture include a cross reference to a previously filed, co-pending U.S. provisional patent application and the corresponding filing date. The stated benefit is the priority given to the filing date of the cited provisional patent application according to the statutes and rules governing provisional patent applications.\n\n\n\nTitle: Exploring the Marvels of Math: Understanding Decimal Place Value\n\nIntroduction:\nWelcome, esteemed alien reader, to the fascinating world of mathematics! In this article, we will delve into the realm of decimals, specifically focusing on decimal place value. Prepare to embark on a journey of discovery, as we unravel the mysteries behind numbers and their significance in our daily lives.\n\nQuestion 1: What is the concept of place value in mathematics?\nAnswer: Place value is a fundamental concept in mathematics that determines the value of a digit based on its position in a number. It helps us understand the magnitude and order of numbers.\n\nQuestion 2: How does decimal place value work?\nAnswer: Decimal place value is similar to whole number place value but extends to include digits to the right of the decimal point. Each digit's value depends on its position relative to the decimal point.\n\nQuestion 3: Can you",
+  "retrieved_documents": [
+    {
+      "rank": 1,
+      "metadata": {
+        "doc_id": 7666,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: CROSS REFERENCE TO RELATED APPLICATIONS \n       [0001]    The present patent application is a formalization of previously filed, co-pending U.S. provisional patent application Ser. No. 60..."
+    },
+    {
+      "rank": 2,
+      "metadata": {
+        "doc_id": 4916,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: CROSS REFERENCE TO RELATED APPLICATIONS \n     The present patent application is a formalization of previously filed, co-pending U.S. provisional patent application Ser. No. 60/862,673, fi..."
+    },
+    {
+      "rank": 3,
+      "metadata": {
+        "doc_id": 2857,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: This application is a continuation of application Ser. No. 07/604,397 filed Oct. 26, 1990, now abandoned which is a continuation of application Ser. No. 07/344,932 filed Apr. 28, 1989, no..."
+    },
+    {
+      "rank": 4,
+      "metadata": {
+        "doc_id": 3591,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: TABLE OF CONTENTS \n     Background of the invention:\n         Reference application U.S. #20070199669 Yang:   Reference Application, U.S. #20070049661:   Reference Application, U.S. #2008..."
+    },
+    {
+      "rank": 5,
+      "metadata": {
+        "doc_id": 1581,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: RELATED APPLICATIONS \n     This patent document is a continuation of U.S. application Ser. No. 14/160,246, filed Jan. 21, 2014, which is a continuation of U.S. application Ser. No. 13/745..."
+    }
+  ]
+}

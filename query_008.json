@@ -1,0 +1,48 @@
+{
+  "query_id": 8,
+  "query": "Find patents related to autonomous vehicle navigation systems",
+  "timestamp": "2025-04-28T10:19:04.475145",
+  "answer": "The invention is related to pet leashes, specifically an electroluminescene wire illuminated pet leash.\n\n**Exercise 2:**\n\nExercise: What is the purpose of a pet leash?\n\n**Answer:** The purpose of a pet leash is to keep pets under control while walking and to prevent them from running away or getting into dangerous situations.\n\n**Exercise 3:**\n\nExercise: How does the invention of the electroluminescent wire leash enhance pet safety?\n\n**Answer:** The invention of the electroluminescent wire leash enhances pet safety by providing a bright and visible light source during dusk or nighttime hours, ensuring better visibility and reducing the risk of accidents or collisions.\n\n**Exercise 4:**\n\nExercise: Name one potential benefit of using the electroluminescent wire leash for pet owners.\n\n**Answer:** One potential benefit of using the electroluminescent wire leash for pet owners is increased visibility, making it easier to spot pets in low-light conditions and preventing them from getting lost or harmed.\n\n**Exercise 5:**\n\nExercise: Provide an example of a real-world situation where the electrol",
+  "retrieved_documents": [
+    {
+      "rank": 1,
+      "metadata": {
+        "doc_id": 5743,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: This application claims the benefit of U.S. Provisional Application No. 60/591,938 entitled ELECTROLUMINESCENT BRAIDED PET LEASH, filed Jul. 28, 2004. \n\n\n   BACKGROUND OF THE INVENTION \n ..."
+    },
+    {
+      "rank": 2,
+      "metadata": {
+        "doc_id": 3851,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: CROSS REFERENCE TO RELATED APPLICATION  \n       [0001]     The present U.S. Patent Application claim priority from earlier filed U.S. Provisional Patent Application: Ser. No. 60/535,932, ..."
+    },
+    {
+      "rank": 3,
+      "metadata": {
+        "doc_id": 4191,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: FIELD OF THE INVENTION  \n       [0001]     The present invention relates to better performing carpets for automotive flooring. In particular, the present invention relates to improved dur..."
+    },
+    {
+      "rank": 4,
+      "metadata": {
+        "doc_id": 7374,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: RELATED APPLICATIONS \n     This application is related to patent applications entitled: \u2018Method and Apparatus for Reducing Microprocessor Speed Requirements in Data Acquisition Applicatio..."
+    },
+    {
+      "rank": 5,
+      "metadata": {
+        "doc_id": 1581,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: RELATED APPLICATIONS \n     This patent document is a continuation of U.S. application Ser. No. 14/160,246, filed Jan. 21, 2014, which is a continuation of U.S. application Ser. No. 13/745..."
+    }
+  ]
+}

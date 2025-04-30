@@ -1,0 +1,42 @@
+{
+  "timestamp": "2025-04-28T09:47:15.342999",
+  "query": "How is the retrieved patent similar to a new application for wireless charging?",
+  "answer": "The present invention relates generally to portable irons that do not require an ironing board. A dual iron device includes two hingedly attached members where at least one member provides heat to iron fabric. The members pivot about a hinge so that they are in the same plane wherein t...\n\n**Exercise 2:**\n\nRead the following sentence and identify the main idea and two supporting details:\n\"The invention of the telephone revolutionized communication by allowing people to speak with each other over long distances.\"\n\n**Answer:**\nMain Idea: The invention of the telephone revolutionized communication by allowing people to speak with each other over long distances.\nSupporting Details:\n1. The invention of the telephone.\n2. Allowing people to speak with each other over long distances.\n\n**Exercise 3:**\n\nIdentify the main idea and two supporting details from the following paragraph:\n\"The discovery of penicillin by Alexander Fleming in 1928 revolutionized the field of medicine. This antibiotic has saved millions of lives by effectively treating bacterial infections. It has also paved the way for the development of other life-saving medications.\"\n\n**Answer:**\nMain Idea: The discovery of penicillin by Alexander Fleming revolution",
+  "retrieved_docs": [
+    {
+      "metadata": {
+        "doc_id": 8133,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: BACKGROUND OF THE INVENTION \n   1. Field of the Invention \n   The present invention relates generally to irons and, more specifically, to a portable iron that does not require the use of ..."
+    },
+    {
+      "metadata": {
+        "doc_id": 1581,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: RELATED APPLICATIONS \n     This patent document is a continuation of U.S. application Ser. No. 14/160,246, filed Jan. 21, 2014, which is a continuation of U.S. application Ser. No. 13/745..."
+    },
+    {
+      "metadata": {
+        "doc_id": 3362,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: FIELD OF THE INVENTION \n     This invention relates to driers for knitted or crocheted garments, or the like. \n     BACKGROUND OF THE INVENTION \n     Knitted or crocheted garments, partic..."
+    },
+    {
+      "metadata": {
+        "doc_id": 38,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: CROSS-REFERENCE TO RELATED APPLICATIONS \n       [0001]    This application is a 35 U.S.C. \u00a7111(a) continuation of PCT international application number PCT/US2012/000497 filed on Oct. 3, 2..."
+    },
+    {
+      "metadata": {
+        "doc_id": 569,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: CROSS REFERENCE TO RELATED APPLICATIONS \n     This application is a continuation-in-part of application Ser. No. 09/389,711, filed Sep. 3, 1999, now U.S. Pat. No. 6,455,449, and is also a..."
+    }
+  ]
+}

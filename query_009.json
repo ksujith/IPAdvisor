@@ -1,0 +1,48 @@
+{
+  "query_id": 9,
+  "query": "Search for innovations in renewable energy storage",
+  "timestamp": "2025-04-28T10:19:38.898893",
+  "answer": "1. The patent application claims priority to Japanese Patent Application No. P2000-074407 filed on Mar. 16, 2000, incorporated by reference to the extent permitted by law.\n2. The present invention relates to a hydrogen-storing carbonaceous material and a method for producing it, a hydrogen-stored carbonaceous material and a method for producing it and a battery and a fuel cell using a hydrogen-stored carbonaceo...\n3. The invention is based on a hydrogen-storing carbonaceous material and a method for producing it, a hydrogen-stored carbonaceous material and a method for producing it and a battery and a fuel cell using a hydrogen-stored carbonaceo...\n4. The present invention is an improvement of an existing carbon-storing material and method for producing it, and an improvement of an existing carbon-storing material and method for producing it and a battery and a fuel cell using a hydrogen-storing carbonaceo...\n5. The present invention is a battery and a fuel cell using a hydrogen-storing carbonaceo...\n6. The present invention is an improvement of an existing carbon-storing material and method for producing it, and an improvement of an existing carbon-",
+  "retrieved_documents": [
+    {
+      "rank": 1,
+      "metadata": {
+        "doc_id": 9076,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: RELATED APPLICATION DATA \n     The present application claims priority to Japanese Patent Application No. P2000-074407 filed on Mar. 16, 2000, herein incorporated by reference to the exte..."
+    },
+    {
+      "rank": 2,
+      "metadata": {
+        "doc_id": 2157,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: CROSS REFERENCE TO RELATED APPLICATION \n       [0001]    This application claims the benefit of Korean Patent Application No. 10-2011-0027783, filed Mar. 28, 2011, entitled \u201cSecondary bat..."
+    },
+    {
+      "rank": 3,
+      "metadata": {
+        "doc_id": 8976,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: CROSS REFERENCE TO RELATED APPLICATION \n       [0001]    This application claims the benefit of Korean Patent Application No. 10-2011-0027783, filed Mar. 28, 2011, entitled \u201cSecondary bat..."
+    },
+    {
+      "rank": 4,
+      "metadata": {
+        "doc_id": 8197,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: CROSS-REFERENCE TO RELATED APPLICATIONS \n     This application is a national phase application of PCT International Patent Application PCT/JP2011/059896 filed Apr. 22, 2011, which claims ..."
+    },
+    {
+      "rank": 5,
+      "metadata": {
+        "doc_id": 9133,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: BACKGROUND OF THE INVENTION \n     1. Field of the Invention \n     The present invention relates to an electrochemical battery that employs an organic solvent. More particularly, it relate..."
+    }
+  ]
+}

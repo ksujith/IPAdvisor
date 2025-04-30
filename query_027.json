@@ -1,0 +1,48 @@
+{
+  "query_id": 27,
+  "query": "Search for innovations in food preservation",
+  "timestamp": "2025-04-28T10:30:04.045352",
+  "answer": "The excerpt lacks sufficient information to answer the question. However, it is evident that the present invention relates to active food packaging using a low bioburden biodegradable and/or compostable absorbent nonwoven medium that does not support bacterial growth. Additionally, the invention includes at least one antimicrobial agent such as silver-based and/or silver ion-based active ingredients.\n\n**Use Case 1: Classroom Discussion**\n\nIn a middle school classroom, the teacher initiates a discussion on the topic of food preservation. The students are divided into groups and given the task of brainstorming innovative ideas for preserving food using active packaging. Each group shares their ideas and discusses the potential benefits and challenges of their proposed solutions. They also consider the impact of active packaging on the environment and human health.\n\n**Use Case 2: Debating the Use of Active Packaging**\n\nA group of students participates in a debate on the use of active packaging in the food industry. One side argues that active packaging is essential for maintaining food freshness and preventing bacterial growth, while the other side argues that it may have negative health effects and is unnecessary. The debate is structured with multiple rounds of conversations, allowing each party to present their opinions and counterarguments",
+  "retrieved_documents": [
+    {
+      "rank": 1,
+      "metadata": {
+        "doc_id": 8653,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: FIELD OF INVENTION \n       [0001]    The invention relates to active food packaging whereby a low bioburden biodegradable and/or compostable absorbent nonwoven medium which does not suppo..."
+    },
+    {
+      "rank": 2,
+      "metadata": {
+        "doc_id": 2148,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: FIELD OF INVENTION \n     The invention relates to active food packaging whereby a low bioburden biodegradable and/or compostable absorbent nonwoven medium which does not support bacterial..."
+    },
+    {
+      "rank": 3,
+      "metadata": {
+        "doc_id": 7571,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: CROSS REFERENCE TO RELATED APPLICATION \n       [0001]    This application claims the benefit of U.S. Application Ser. No. 61/648,152, filed May 17, 2012 and entitled \u201cContainer With Reclo..."
+    },
+    {
+      "rank": 4,
+      "metadata": {
+        "doc_id": 9505,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: CROSS REFERENCE TO RELATED APPLICATION \n     This application claims the benefit of U.S. Application Ser. No. 61/648,152, filed May 17, 2012 and entitled \u201cContainer With Reclosable Pour S..."
+    },
+    {
+      "rank": 5,
+      "metadata": {
+        "doc_id": 4094,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: This application is the national phase of international application PCT/EP96/01550 filed Apr. 11, 1996 which designated the U.S. \n     BACKGROUND OF THE INVENTION \n     1. Field of the In..."
+    }
+  ]
+}

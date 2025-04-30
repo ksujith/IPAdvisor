@@ -1,0 +1,48 @@
+{
+  "query_id": 19,
+  "query": "What are the recent patents in wearable health monitoring?",
+  "timestamp": "2025-04-28T10:25:29.993931",
+  "answer": "The patent application claims priority under 35 USC \u00a7119(e) from provisional patent application No. 61/420,812 filed on Dec. 8, 2010 and herewith incorporated in its entirety.\n\n**Exercise 2:** Identify the main objective of the patent mentioned in Exercise 1.\n\n**Answer:** The main objective of the patent mentioned in Exercise 1 is to protect the invention of textile articles with electrically conductive portions integrated within them.\n\n**Exercise 3:** What is the significance of the phrase \"a network of natural or artif...?\" in the patent excerpt?\n\n**Answer:** The phrase \"a network of natural or artif...'\" refers to the structure of the textile articles, indicating that they consist of interconnected components.\n\n**Exercise 4:** Discuss the impact of the patent's priority claim on the patent's overall protection.\n\n**Answer:** The patent's priority claim ensures that the invention is the first to be disclosed, granting exclusive rights to the inventor for a specified period of time. This protection is crucial in establishing the inventiveness and uniqueness of the invention.\n\n**Exercise 5:** Compare and contrast the patent application with the patent mentioned in Exercise 1.",
+  "retrieved_documents": [
+    {
+      "rank": 1,
+      "metadata": {
+        "doc_id": 5298,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: CROSS-REFERENCE TO RELATED APPLICATIONS \n     This application claims priority under 35 USC \u00a7119(e) from provisional patent application No. 61/420,812 filed on Dec. 8, 2010 and herewith i..."
+    },
+    {
+      "rank": 2,
+      "metadata": {
+        "doc_id": 7039,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: FIELD OF INVENTION  \n       [0001]     The present invention relates the non-invasive monitoring of cardio-respiratory functions  \n       BACKGROUND OF THE INVENTION  \n       [0002]     S..."
+    },
+    {
+      "rank": 3,
+      "metadata": {
+        "doc_id": 7189,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: CROSS-REFERENCE TO RELATED APPLICATIONS  \n       [0001]    This application claims the benefits of and priority to U.S. Provisional Patent Application Serial No. 60/385,203 filed on Jun. ..."
+    },
+    {
+      "rank": 4,
+      "metadata": {
+        "doc_id": 1296,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: FIELD OF THE INVENTION  \n       [0001]     The present invention relates to wristbands and headbands.  \n       BACKGROUND OF THE INVENTION  \n       [0002]     Referring to  FIG. 3 , a con..."
+    },
+    {
+      "rank": 5,
+      "metadata": {
+        "doc_id": 1427,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: TECHNICAL FIELD \n       [0001]    The present invention relates to an electrically conductive material, a production method for the electrically conductive material, and a bioelectrode. \n..."
+    }
+  ]
+}

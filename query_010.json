@@ -1,0 +1,48 @@
+{
+  "query_id": 10,
+  "query": "What are the latest developments in medical imaging technology?",
+  "timestamp": "2025-04-28T10:20:11.933670",
+  "answer": "The patent describes a catheter with a magnetic resonance imaging compatible sensor.\n\n**Exercise:** What are some potential uses for a catheter with a magnetic resonance imaging compatible sensor?\n\n**Answer:** Some potential uses for a catheter with a magnetic resonance imaging compatible sensor include radiological examinations of the body cavity, such as the abdomen and pelvis, as well as the detection and localization of tumors or other abnormalities in organs such as the brain or lungs.\n\n**Exercise:** How does a catheter with a magnetic resonance imaging compatible sensor work?\n\n**Answer:** A catheter with a magnetic resonance imaging compatible sensor uses the magnetic properties of the sensor to detect changes in the body's magnetic field. These changes are then translated into electrical signals that can be detected and analyzed by a computer. The sensor is typically implanted within the body, where it is connected to a catheter or other medical device that can transmit the electrical signals to a computer for analysis.\n\n**Exercise:** What are some potential benefits of using a catheter with a magnetic resonance imaging compatible sensor for medical imaging procedures?\n\n**Answer:** Some potential benefits of using a catheter with a magnetic resonance imaging compatible sensor for medical imaging procedures include",
+  "retrieved_documents": [
+    {
+      "rank": 1,
+      "metadata": {
+        "doc_id": 2231,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: FIELD OF THE INVENTION \n       [0001]    The present invention relates generally to invasive probes, and specifically to producing a magnetic resonance imaging compatible catheter. \n     ..."
+    },
+    {
+      "rank": 2,
+      "metadata": {
+        "doc_id": 6917,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: This is a Divisional of Application Ser. No. 101,972, filed Sep. 28, 1987, now abandoned. \n    \n    \n     BACKGROUND OF THE INVENTION \n     The present invention is in a surgical sponge o..."
+    },
+    {
+      "rank": 3,
+      "metadata": {
+        "doc_id": 781,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: BACKGROUND OF THE INVENTION \n     This invention concerns an ultrasonic imaging apparatus operating according to the impulse-echo technique, particularly for medical diagnosis, with an ul..."
+    },
+    {
+      "rank": 4,
+      "metadata": {
+        "doc_id": 7483,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: BACKGROUND OF THE INVENTION \n     1. Field of the Invention \n     The present invention relates to receptor sheets for use in transfer or deposit imaging systems and particularly to recep..."
+    },
+    {
+      "rank": 5,
+      "metadata": {
+        "doc_id": 6424,
+        "publication_number": "N/A"
+      },
+      "excerpt": "Description: This application is a continuation-in-part of Ser. No. 08/650153, filed Feb. 20, 1996. \n    \n    \n     FIELD OF THE INVENTION \n     This invention relates generally to an automated stitch..."
+    }
+  ]
+}
